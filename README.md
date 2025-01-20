@@ -42,7 +42,7 @@ Part III(final-project-part-three)
 
 ![Screenshot of a puppy.](https://images7.memedroid.com/images/UPLOADED733/616e651cf3e5a.jpeg)
 
-Tips: Remember I'll need to upload the image into my repository, or include a link to the image somewhere else. 
+Tips: Remember to upload the image into repository, or include a link to the image somewhere else. 
 
 
 
