@@ -1,17 +1,10 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+Hiiiii, this is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I am Xiaoxiao Ren from MEIM! Honestly, I'm not very skilled at data processing, but I genuinely believe that mastering data-related knowledge is really cool! Learning how to visualize data, in particular, is an incredibly versatile skill. I'm very excited about the growth I will achieve after taking this course!
+Hi!  I am Xiaoxiao Ren from MEIM!🚀 Honestly, I'm not very skilled at data processing, but I genuinely believe that mastering data-related knowledge is really cool! Learning how to visualize data, in particular, is an incredibly versatile skill. I'm very excited about the growth I will achieve after taking this course!🎁
 
 # What I hope to learn
 Hey, I list 3 things I hope I can learn and achieve, check them out! 
@@ -31,7 +24,7 @@ I've often heard people talk about GitHub, but I always thought it was exclusive
 
 # Portfolio
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment 1: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
@@ -90,6 +83,13 @@ Any of those formats will work. Here's some examples of working links:
 Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
 
 Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
+
+# TSWD-portfolio-templates
+These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
+It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+
+- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
+- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 ## References
 _List any references you used here._
