@@ -47,7 +47,7 @@ Tips: Remember I'll need to upload the image into my repository, or include a li
 
 
 
-### Things I will probably use in the future
+## Things I will probably use in the future
 
 ### Creating tables
 
@@ -60,12 +60,10 @@ Tips: Remember I'll need to upload the image into my repository, or include a li
 
 An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
 
-You can use different headings, like this: 
 
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
+**For some title, hey-- remember the space!**
 You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
+
  
 
 ### Setting up a separate page
