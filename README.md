@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
-Hiiiii, this is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+Hiiiii, this is my public portfolio for Telling Stories with Data at CMU Heinz College! Here's where all my cool work will go. You should probably hire me. 
 
 # About me
 Hi!  I am Xiaoxiao Ren from MEIM!🚀 Honestly, I'm not very skilled at data processing, but I genuinely believe that mastering data-related knowledge is really cool! Learning how to visualize data, in particular, is an incredibly versatile skill. I'm very excited about the growth I will achieve after taking this course!🎁
@@ -39,10 +39,18 @@ Part III(final-project-part-three)
 ---
 ## Other stuff I will do 
 
+### Adding images 
+
+![Screenshot of a puppy.](https://images7.memedroid.com/images/UPLOADED733/616e651cf3e5a.jpeg)
+
+Tips: Remember I'll need to upload the image into my repository, or include a link to the image somewhere else. 
+
+
+
+### Things I will probably use in the future
 
 ### Creating tables
 
-You can build tables like this: 
 
 | Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
 |--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
@@ -58,12 +66,7 @@ You can use different headings, like this:
 ## Here's a subtitle (H2)
 ### ...and so on (H3)
 You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images 
-
-![Screenshot of a puppy.](https://images7.memedroid.com/images/UPLOADED733/616e651cf3e5a.jpeg)
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
+ 
 
 ### Setting up a separate page
 
