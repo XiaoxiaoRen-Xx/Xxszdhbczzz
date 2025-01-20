@@ -11,20 +11,18 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi!  I am Xiaoxiao Ren from MEIM! Honestly, I'm not very skilled at data processing, but I genuinely believe that mastering data-related knowledge is really cool! Learning how to visualize data, in particular, is an incredibly versatile skill. I'm very excited about the growth I will achieve after taking this course!
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+Hey, I list 3 things I hope I can learn and achieve, check them out! 
 
-1. List item #1
-2. List item #2
-3. List item #3
+**1. Becoming a Master of "Telling Stories with Data"**
+I absolutely love taking photos because every picture has a story behind it. That's why I want to learn how to "tell stories with data"—just like capturing a journey through a photo! I want to use the right datasets and tools to turn complex information into visuals that are easy to understand and fun to look at. Imagine talking to friends about data and hearing them say, "Wow, this visualization makes it so easy to understand. You're a genius for doing it this way!" (Yes, I love compliments, haha!)
+**2. Improving My Critical Thinking Skills**
+In the past, I often found myself speechless when others shared their ideas or suggestions. I’d easily go along with their opinions, thinking, "Well, they must have a good reason for doing it that way." Through this course, I want to change that and become someone who can spot issues in charts at a glance. Not only will I be able to point out problems, but I’ll also come up with practical solutions. For example, when someone uses a chaotic pie chart to present data, I can gracefully suggest, "You know, a bar chart would actually make this much clearer!"
+**3. Creating My Own "Showcase of Work"**
+I've often heard people talk about GitHub, but I always thought it was exclusive to those who are great at coding or data analysis. Now, I’m excited to finally step into that world and create a cool online portfolio through this course—like my own personal art exhibit! I can’t wait to show it off to my family because, just like me, they’ve always been intimidated by these things. But hey, I’m facing my fears and making progress, right?
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
 
