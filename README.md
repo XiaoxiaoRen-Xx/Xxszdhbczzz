@@ -16,13 +16,15 @@ Hi!  I am Xiaoxiao Ren from MEIM! Honestly, I'm not very skilled at data process
 # What I hope to learn
 Hey, I list 3 things I hope I can learn and achieve, check them out! 
 
-**1. Becoming a Master of "Telling Stories with Data"** I absolutely love taking photos because every picture has a story behind it. That's why I want to learn how to "tell stories with data"—just like capturing a journey through a photo! I want to use the right datasets and tools to turn complex information into visuals that are easy to understand and fun to look at. Imagine talking to friends about data and hearing them say, "Wow, this visualization makes it so easy to understand. You're a genius for doing it this way!" (Yes, I love compliments, haha!)
+**1. Becoming a Pre-Master of "Telling Stories with Data" 😎** 
 
-**2. Improving My Critical Thinking Skills**
+I absolutely love taking photos because every picture has a story behind it. That's why I want to learn how to "tell stories with data"—just like capturing a journey through a photo! I want to use the right datasets and tools to turn complex information into visuals that are easy to understand and fun to look at. Imagine talking to friends about data and hearing them say, "Wow, this visualization makes it so easy to understand. You're a genius for doing it this way!" (Yes, I love compliments, haha!)
+
+**2. Improving My Critical Thinking Skills 📋**
 
 In the past, I often found myself speechless when others shared their ideas or suggestions. I’d easily go along with their opinions, thinking, "Well, they must have a good reason for doing it that way." Through this course, I want to change that and become someone who can spot issues in charts at a glance. Not only will I be able to point out problems, but I’ll also come up with practical solutions. For example, when someone uses a chaotic pie chart to present data, I can gracefully suggest, "You know, a bar chart would actually make this much clearer!"
 
-**3. Creating My Own "Showcase of Work"**
+**3. Creating My Own "Showcase of Work"🪩**
 
 I've often heard people talk about GitHub, but I always thought it was exclusive to those who are great at coding or data analysis. Now, I’m excited to finally step into that world and create a cool online portfolio through this course—like my own personal art exhibit! I can’t wait to show it off to my family because, just like me, they’ve always been intimidated by these things. But hey, I’m facing my fears and making progress, right?
 
@@ -76,9 +78,12 @@ You get the idea - just don't forget the space between the # and your title.  `#
 
 Here's an example of how to add an image to my portfolio.  
 
+![Screenshot of a puppy.]
+(https://www.memedroid.com/memes/detail/3509003/pup?refGallery=tags&page=1&tag=puppy+%3Ad)
+
+
 ![funny dog picture](funny-dog-unsplash.jpg)
 > Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
 
 Alternately, you can set the size of the image using just a bit of HTML: 
 
