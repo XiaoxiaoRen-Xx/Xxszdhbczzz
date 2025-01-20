@@ -81,6 +81,8 @@ Here's an example of how to add an image to my portfolio.
 ![Screenshot of a puppy.]
 (https://www.memedroid.com/memes/detail/3509003/pup?refGallery=tags&page=1&tag=puppy+%3Ad)
 
+![Screenshot of a puppy.](funny-dog-unsplash.jpg)
+> Photo by <a href="https://www.memedroid.com/memes/detail/3509003/pup?refGallery=tags&page=1&tag=puppy+%3Ad
 
 ![funny dog picture](funny-dog-unsplash.jpg)
 > Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
