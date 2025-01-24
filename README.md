@@ -27,12 +27,6 @@ I've often heard people talk about GitHub, but I always thought it was exclusive
 ## Assignment 1: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-# Portfolio
-
-## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called `visualizing-government-debt.md`. For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension.
-
-<!-- Tableau 可视化嵌入代码 -->
 <script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script>
 <tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/xren43915-05c3835a3b/views/firsttry/1' width='775' height='656' hide-tabs toolbar='bottom'></tableau-viz>
 
