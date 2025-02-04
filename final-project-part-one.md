@@ -47,21 +47,6 @@ Text here...
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your GitHub repository, Box account or other publicly-accessible location. Using a data source that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
-| Name | URL | Description |
-|------|-----|-------------|
-|Prevalence of obesity among adults, BMI >= 30 (age-standardized estimate) (%) |https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-obesity-among-adults-bmi-=-30-(age-standardized-estimate)-(-) |WHO (World Health Organization): Data on global obesity rates, include data and visualization(Map)   |
-|The State of Agricultural Commodity Markets 2024      |https://openknowledge.fao.org/handle/20.500.14283/cd2144en     |Data on global obesity rates, include data and visualization(Map)             |
-|One in eight people are now living with obesity      |https://www.who.int/news/item/01-03-2024-one-in-eight-people-are-now-living-with-obesity     |Data on Obisity              |
-|The Dieting Dilemma      |https://extension.usu.edu/nutrition/research/the-dieting-dilemma?     |High failure rate: According to research from Utah State University, statistics show that 95 percent of diet attempts end in failure.             |
-|Physiological and Epigenetic Features of Yoyo Dieting and Weight Control      |https://pmc.ncbi.nlm.nih.gov/articles/PMC6917653/    |Rebound trend: Studies show that most people are unable to maintain their weight after losing weight, usually starting to gain weight back within the first year, and returning to their pre-intervention weight or even exceeding their original weight within the following two to five years.             |
-|      |     |             |
-|      |     |             |
-|      |     |             |
-|      |     |             |
-
-
-### Creating tables
-
 |                                    **Name**                                    |                                                                     **URL**                                                                    |                                                                                                                                          **Description**                                                                                                                                          |
 |:------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Prevalence of obesity among adults, BMI >= 30 (age-standardized estimate) (%)  | https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-obesity-among-adults-bmi-=-30-(age-standardized-estimate)-(-) | WHO (World Health Organization): Data on global obesity rates, include data and visualization(Map)                                                                                                                                                                                                |
