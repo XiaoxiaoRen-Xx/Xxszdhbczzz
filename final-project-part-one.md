@@ -6,7 +6,12 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Text here...
+In this project, I aim to demonstrate how to achieve healthy weight loss through scientifically informed methods, while highlighting the risks of unsustainable and extreme dieting. In today’s world, many people, actually including me, upon noticing weight gain, often resort to drastic measures such as severely reducing calorie intake—sometimes as little as just two cups of coffee and a cucumber a day. While such approaches may result in rapid short-term weight loss, they frequently lead to significant long-term consequences, including slowed metabolism, muscle loss, hormonal imbalances, and nutritional deficiencies. Worse yet, these methods often result in the dreaded weight regain, leaving individuals trapped in an unhealthy cycle.
+
+Through this project, I plan to use data-driven analysis and visual storytelling to help my audience understand why scientific weight loss is a more sustainable and healthier approach. By comparing the short-term effects, long-term risks, and health outcomes of different dietary methods, I will illustrate the importance of balanced nutrition. Additionally, I will provide actionable insights that allow viewers to design their own tailored weight-loss plans based on their unique needs. This project aims not only to improve individual health outcomes but also to raise public awareness about the importance of evidence-based dieting.
+
+
+
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
