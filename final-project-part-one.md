@@ -40,20 +40,21 @@ Text here...
 
 > These are the data visualizations I have now and I will make more to prove my statement and make them into a story!
 
-> Data visualizations for the set-up stage
+> ## Data visualizations for the set-up stage
+
 2016 Obesity Rate Worldwide
 ![2016 Obesity Rate Worldwide](https://github.com/XiaoxiaoRen-Xx/Images-/blob/a1cd1f08d5776fbf4ad13860701579bdcc14f7f0/4836fcb0-e340-11ef-8266-5b3800b24186.png)
 
 2022 Obesity Rate Worldwide
 ![2022 Obesity Rate Worldwide](https://github.com/XiaoxiaoRen-Xx/Images-/blob/a1cd1f08d5776fbf4ad13860701579bdcc14f7f0/69f10530-e340-11ef-8266-5b3800b24186.png)
 
-> Data visualizations for the conflict stage
+> ## Data visualizations for the conflict stage
 Thoughts: The method(s) is TBD.
 1. Bar chart: Compare the success vs. failure rates of different fat loss methods (e.g., low-carb diet and balanced diet) in both short-term and long-term effects.
 2. Heat map: Shows the short-term vs. long-term effects of different fat loss methods.
 
 
-> Data visualizations for the resolution stage
+> ## Data visualizations for the resolution stage
 Thoughts: The method(s) is TBD.
 1. Simple chart: Show the optimal nutrient intake ratio for different body weights and exercise levels, allowing the audience can look for their own combinations based on their personal situations.
 
