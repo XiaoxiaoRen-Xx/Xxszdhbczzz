@@ -39,12 +39,12 @@ Text here...
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline and include elements of your story.  
 
 Text here...
-
+2016 Obesity Rate Worldwide
 ![2016 Obesity Rate Worldwide](https://github.com/XiaoxiaoRen-Xx/Images-/blob/a1cd1f08d5776fbf4ad13860701579bdcc14f7f0/4836fcb0-e340-11ef-8266-5b3800b24186.png)
 
+2022 Obesity Rate Worldwide
+![2022 Obesity Rate Worldwide](https://github.com/XiaoxiaoRen-Xx/Images-/blob/a1cd1f08d5776fbf4ad13860701579bdcc14f7f0/69f10530-e340-11ef-8266-5b3800b24186.png)
 
-![2016 Obesity Rate Worldwide](images/4836fcb0-e340-11ef-8266-5b3800b24186.png)
-![2022 Obesity Rate Worldwide](image/69f10530-e340-11ef-8266-5b3800b24186.png)
 
 
 # The data
