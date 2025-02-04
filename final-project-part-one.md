@@ -42,6 +42,15 @@ Text here...
 
 ## References
 _List any references you used here._
+https://www.who.int/news/item/01-03-2024-one-in-eight-people-are-now-living-with-obesity
+https://openknowledge.fao.org/server/api/core/bitstreams/dd212c2c-b6d3-4ce9-a582-51666cd70a28/content/state-of-agricultural-commodity-markets/2024/prevalence-obesity-world.html
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-obesity-among-adults-bmi-=-30-(age-standardized-estimate)-(-)
+
+高失败率：https://extension.usu.edu/nutrition/research/the-dieting-dilemma?utm_source=chatgpt.com
+反弹趋势：https://pmc.ncbi.nlm.nih.gov/articles/PMC6917653/?utm_source=chatgpt.com
+长期效果有限：https://www.livestrong.com/article/13764583-diet-statistics/?utm_source=chatgpt.com
+
+
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
