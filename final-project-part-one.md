@@ -60,23 +60,26 @@ Text here...
 |      |     |             |
 
 
+### Creating tables
+
+| Name                                                                           | URL                                                                                                                                            | Description                                                                                                                                                                                                                                                                                       |
+|--------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Prevalence of obesity among adults, BMI >= 30 (age-standardized estimate) (%)  | https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-obesity-among-adults-bmi-=-30-(age-standardized-estimate)-(-) | WHO (World Health Organization): Data on global obesity rates, include data and visualization(Map)                                                                                                                                                                                                |
+| The State of Agricultural Commodity Markets 2024                               | https://openknowledge.fao.org/handle/20.500.14283/cd2144en                                                                                     | Data on global obesity rates, include data and visualization(Map)                                                                                                                                                                                                                                 |
+| One in eight people are now living with obesity                                | https://www.who.int/news/item/01-03-2024-one-in-eight-people-are-now-living-with-obesity                                                       | Data on Obesity                                                                                                                                                                                                                                                                                   |
+| The Dieting Dilemma                                                            | https://extension.usu.edu/nutrition/research/the-dieting-dilemma?                                                                              | High failure rate: According to research from Utah State University, statistics show that 95 percent of diet attempts end in failure.                                                                                                                                                             |
+| Physiological and Epigenetic Features of Yoyo Dieting and Weight Control       | https://pmc.ncbi.nlm.nih.gov/articles/PMC6917653/                                                                                              | Rebound trend: Studies show that most people are unable to maintain their weight after losing weight, usually starting to gain weight back within the first year, and returning to their pre-intervention weight or even exceeding their original weight within the following two to five years.  |
+| 70 Dieting Statistics You Should Know                                          | https://www.livestrong.com/article/13764583-diet-statistics/                                                                                   | 65% of dieters return to their pre-diet weight within three years                                                                                                                                                                                                                                 |
+
+
+
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
 Text here...
 
 ## References
-_List any references you used here._
-https://www.who.int/news/item/01-03-2024-one-in-eight-people-are-now-living-with-obesity
-https://openknowledge.fao.org/server/api/core/bitstreams/dd212c2c-b6d3-4ce9-a582-51666cd70a28/content/state-of-agricultural-commodity-markets/2024/prevalence-obesity-world.html
-https://www.who.int/data/gho/data/indicators/indicator-details/GHO/prevalence-of-obesity-among-adults-bmi-=-30-(age-standardized-estimate)-(-)
 
-
-反弹趋势：研究表明，大多数人在减重后无法维持体重，通常在第一年内开始体重回升，并在随后的2至5年内恢复到干预前的体重，甚至超过原有体重。 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC6917653/?utm_source=chatgpt.com
-
-长期效果有限：根据宾夕法尼亚大学的体重与饮食失调项目的数据，65%的节食者在三年内恢复到节食前的体重。65% of dieters return to their pre-diet weight within three years
-https://www.livestrong.com/article/13764583-diet-statistics/?utm_source=chatgpt.com
 
 
 
