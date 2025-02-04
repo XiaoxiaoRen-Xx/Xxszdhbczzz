@@ -5,18 +5,21 @@
 
 # Outline
 
-In this project, I aim to demonstrate how to achieve healthy weight loss through scientifically informed methods, while highlighting the risks of unsustainable and extreme dieting. In today’s world, many people, actually including me, upon noticing weight gain, often resort to drastic measures such as severely reducing calorie intake—sometimes as little as just two cups of coffee and a cucumber a day. While such approaches may result in rapid short-term weight loss, they frequently lead to significant long-term consequences, including slowed metabolism, muscle loss, hormonal imbalances, and nutritional deficiencies. Worse yet, these methods often result in the dreaded weight regain, leaving individuals trapped in an unhealthy cycle.
+In this project, I aim to explore how to achieve healthy, sustainable weight loss while exposing the risks of extreme dieting. Like many others, I once believed that drastic calorie restriction—surviving on coffee and cucumber—was the fastest way to lose weight. While the scale drops quickly, the consequences soon follow: fatigue, muscle loss, metabolic slowdown, and inevitable weight regain.  
 
-Through this project, I plan to use data-driven analysis and visual storytelling to help my audience understand why scientific weight loss is a more sustainable and healthier approach. By comparing the short-term effects, long-term risks, and health outcomes of different dietary methods, I will illustrate the importance of balanced nutrition. Additionally, I will provide actionable insights that allow viewers to design their own tailored weight-loss plans based on their unique needs. This project aims not only to improve individual health outcomes but also to raise public awareness about the importance of evidence-based dieting.
+This issue extends beyond individual struggles; with obesity rates rising globally, many turn to extreme diets that promise fast results but rarely deliver lasting success. Instead of chasing unsustainable quick fixes, this project will break down the science behind effective weight loss. Using data-driven analysis and visual storytelling, I’ll compare different diet methods, highlighting their impact on health in both the short and long term. More importantly, I’ll provide practical insights to help individuals create personalized, sustainable weight-loss strategies that promote overall well-being, not just a lower number on the scale.
 
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear.
 >
 
-## Setup: Where my thought came from?
-Many of my friends have tried to lose weight by extreme dieting—drinking only coffee and eating a cucumber a day. While they saw quick results, they soon felt exhausted, lost focus, and ultimately regained all the weight, sometimes even more.
+## Setup: Where My Thought Came From?
 
-This is not an isolated issue—95% of diets fail, and over 75% of people regain the weight within 2-5 years. With obesity rates rising globally, many turn to fast weight-loss methods without considering long-term effects.
+Many of my friends have tried extreme diets—surviving on coffee and a cucumber. The weight drops fast, but so does their energy, and focus, and eventually, all the weight comes back.  
+
+This isn’t just personal; it’s a global issue. **Over 1 billion people worldwide are now classified as obese, and rates continue to rise. In desperation, many turn to crash diets, yet 95% fail, and over 75% regain the weight within 2-5 years.  
+
+With obesity becoming a growing crisis, it’s time to rethink weight loss—not as a quick fix, but as a sustainable, science-backed approach that actually works.
 
 ## Conflict: What are the problems?
 Through research, I discovered that many popular diets are not scientifically sound and can harm health.
