@@ -34,7 +34,7 @@ In my project, I will compare the long-term effects of different diet strategies
 > ### Data visualizations for the set-up stage
 
 2016 Obesity Rate Worldwide
-![2016 Obesity Rate Worldwide](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/main/69f10530-e340-11ef-8266-5b3800b24186.png)
+![2016 Obesity Rate Worldwide](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/a1cd1f08d5776fbf4ad13860701579bdcc14f7f0/4836fcb0-e340-11ef-8266-5b3800b24186.png)
 
 2022 Obesity Rate Worldwide
 ![2022 Obesity Rate Worldwide](https://github.com/XiaoxiaoRen-Xx/Images-/blob/a1cd1f08d5776fbf4ad13860701579bdcc14f7f0/69f10530-e340-11ef-8266-5b3800b24186.png)
