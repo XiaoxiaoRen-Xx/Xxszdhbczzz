@@ -79,7 +79,7 @@ By referencing nutritional research and data from credible health influencers, I
 
 
 ## 🌐 Method and medium 
-As I process various sources and data, I continuously refine my data visualization choices. Currently, I plan to use Tableau to create different charts, such as **bar charts and heat maps**, to visually compare weight-loss methods. Additionally, I will design a clear, easy-to-navigate table. My first thought was through a shareable Excel spreadsheet, but now I just get to know Shortland is a great platform for me to build a visual narrative page for the audiences, allowing viewers to find relevant data and apply it to their own weight-loss journey, I will learn to figure out in the later stage. Finally, all content will be organized and published on GitHub to ensure clarity and accessibility.
+As I process various sources and data, I continuously refine my data visualization choices. Currently, I plan to use Tableau to create different charts, such as bar charts and heat maps, to visually compare weight-loss methods. Additionally, I will design a clear, easy-to-navigate table. My first thought was through a shareable Excel spreadsheet, but now I just get to know Shortland is a great platform for me to build a visual narrative page for the audiences, allowing viewers to find relevant data and apply it to their own weight-loss journey, I will learn to figure out in the later stage. Finally, all content will be organized and published on GitHub to ensure clarity and accessibility.
 
 
 
