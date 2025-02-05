@@ -13,20 +13,20 @@ This issue extends beyond individual struggles; with obesity rates rising global
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one-sentence summary to make the topic even more clear.
 >
 
-## 🔍Setup: Where My Thought Came From?
+# 🔍Setup: Where My Thought Came From?
 
 Many of my friends have tried extreme diets—surviving on coffee and a cucumber. The weight drops fast, but so does their energy, and focus, and eventually, all the weight comes back.  
 This isn’t just personal; it’s a global issue. **Over 1 billion people worldwide are now classified as obese, and rates continue to rise. In desperation, many turn to crash diets, yet 95% fail, and over 75% regain the weight within 2-5 years.  
 With obesity becoming a growing crisis, it’s time to rethink weight loss—not as a quick fix, but as a sustainable, science-backed approach that actually works.
 
-## 🔥Conflict: What are the problems?
+# 🔥Conflict: What are the problems?
 
 Through research, I discovered that many popular diets are not scientifically sound and can harm health.
 Very Low-Calorie Diets (VLCDs) cause rapid weight loss but also slow metabolism, reduce muscle mass, and increase health risks.
 Short-term success, long-term failure: Over 75% of dieters regain weight, proving that extreme methods are unsustainable.
 People choose these diets because they lack the right information. I want to use data visualization to compare different weight-loss methods and highlight the importance of sustainable, science-based approaches.
 
-## ✅Resolution: How are we going to fix it?
+# ✅Resolution: How are we going to fix it?
 
 The key to healthy weight loss is personalized, balanced nutrition scientifically. By calculating daily caloric needs based on height, weight, age, and activity level, people can lose weight effectively without harming their health.
 In my project, I will compare the long-term effects of different diet strategies and provide an interactive tool that generates personalized nutrition plans. My goal is to help people understand that losing weight isn’t about eating less—it’s about eating right and sustainably!
@@ -37,7 +37,7 @@ In my project, I will compare the long-term effects of different diet strategies
 
 > These are the data visualizations I have now and I will make more to prove my statement and make them into a story!
 
-> ## Data visualizations for the set-up stage
+> # Data visualizations for the set-up stage
 
 2016 Obesity Rate Worldwide
 ![2016 Obesity Rate Worldwide](https://github.com/XiaoxiaoRen-Xx/Images-/blob/a1cd1f08d5776fbf4ad13860701579bdcc14f7f0/4836fcb0-e340-11ef-8266-5b3800b24186.png)
@@ -45,13 +45,13 @@ In my project, I will compare the long-term effects of different diet strategies
 2022 Obesity Rate Worldwide
 ![2022 Obesity Rate Worldwide](https://github.com/XiaoxiaoRen-Xx/Images-/blob/a1cd1f08d5776fbf4ad13860701579bdcc14f7f0/69f10530-e340-11ef-8266-5b3800b24186.png)
 
-> ## Data visualizations for the conflict stage
+> # Data visualizations for the conflict stage
 Thoughts: The method(s) is TBD.
 1. Bar chart: Compare the success vs. failure rates of different fat loss methods (e.g., low-carb diet and balanced diet) in both short-term and long-term effects.
 2. Heat map: Shows the short-term vs. long-term effects of different fat loss methods.
 
 
-> ## Data visualizations for the resolution stage
+> # Data visualizations for the resolution stage
 Thoughts: The method(s) is TBD.
 1. Simple chart: Show the optimal nutrient intake ratio for different body weights and exercise levels, allowing the audience can look for their own combinations based on their personal situations.
 
