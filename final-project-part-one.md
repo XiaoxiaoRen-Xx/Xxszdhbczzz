@@ -91,7 +91,8 @@ I listed it in the data source list.
 ## AI acknowledgements
 1. I encountered a lot of technical issues, such as I can see the charts in my preview section but can't be seen from the portfolio, so I went to ask ChatGPT to help me out. Also I had problems when I created the table, so I asked again.
 2. I asked ChatGPT to help me revise my statements because I realized that there are some sentences I cannot express clearly, especially in the outline section, such as "This issue extends beyond individual struggles; with obesity rates rising globally, many turn to extreme diets that promise fast results but rarely deliver lasting success."
-3. As for the data section, many articles contain highly specialized vocabulary, which makes it difficult for me to understand. So I copy some of the paragraphs I couldn't quite understand so I asked ChatGPT to help me interpret them.
+3. As for the data section, many articles contain highly specialized vocabulary, which makes it difficult for me to understand. So I copied some of the paragraphs I couldn't quite understand so I asked ChatGPT to help me interpret them.
+4. In the Method and Medium section, I can only think of creating a simple table chart to show the data to the audiences, but I think it's boring and maybe not effective and attractive for the audiences. So I asked ChatGPT's advice and show me the new platform called "Shortland" may be helpful for this part of data visualization.
 
 
 
