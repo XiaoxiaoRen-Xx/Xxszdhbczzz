@@ -17,7 +17,7 @@ With obesity becoming a growing crisis, it’s time to rethink weight loss—not
 ## 🔥 Conflict: What are the problems?
 
 Through research, I discovered that many popular diets are not scientifically sound and can harm health.
-Very Low-Calorie Diets (VLCDs) cause rapid weight loss but also slow metabolism, reduce muscle mass, and increase health risks.
+Very Low-Calorie Diets cause rapid weight loss but also slow metabolism, reduce muscle, and increase health risks.
 Short-term success, long-term failure: Over 75% of dieters regain weight, proving that extreme methods are unsustainable.
 People choose these diets because they lack the right information. I want to use data visualization to compare different weight-loss methods and highlight the importance of sustainable, science-based approaches.
 
@@ -62,7 +62,7 @@ Studies from the NIH (National Institutes of Health) and PubMed reveal that extr
 
 ### ✅ The Viability of Scientific Weight Loss
 Method: A simple chart, like a table chart.
-By referencing nutritional research and data from credible health influencers, I have compiled science-backed dietary strategies that help individuals create personalized, sustainable weight-loss plans—free from the pitfalls of extreme dieting.
+By referencing nutritional research and data from credible health influencers, I want to create science-backed dietary strategies that help individuals create personalized, sustainable weight-loss plans—free from the pitfalls of extreme dieting.
 
 
 ## 📂 List for DATA Sources
@@ -89,7 +89,9 @@ I listed it in the data source list.
 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+1. I encountered a lot of technical issues, such as I can see the charts in my preview section but can't be seen from the portfolio, so I went to ask ChatGPT to help me out. Also I had problems when I created the table, so I asked again.
+2. I asked ChatGPT to help me revise my statements because I realized that there are some sentences I cannot express clearly, especially in the outline section, such as "This issue extends beyond individual struggles; with obesity rates rising globally, many turn to extreme diets that promise fast results but rarely deliver lasting success."
+3. As for the data section, many articles contain highly specialized vocabulary, which makes it difficult for me to understand. So I copy some of the paragraphs I couldn't quite understand so I asked ChatGPT to help me interpret them.
 
 
 
