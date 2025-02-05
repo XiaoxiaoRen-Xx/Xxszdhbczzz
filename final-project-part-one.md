@@ -51,7 +51,6 @@ Thoughts: The method(s) is TBD.
 
 ## The DATA
 
-
 ### 📊 Global Obesity Rates 
 Method: World map of 2016 and 2022, the comparisons indicating there is an increasing trend in obesity rate.
 The World Obesity Federation’s 2024 report and the WHO Obesity Report highlight the alarming rise in global obesity rates, emphasizing the severity of the issue and the growing demand for effective weight-loss solutions.
@@ -66,6 +65,7 @@ By referencing nutritional research and data from credible health influencers, I
 
 
 ## 📂 List for DATA Sources
+
 
 |                                    **Name**                                    |                                                                     **URL**                                                                    |                                                                                                                                          **Description**                                                                                                                                          |
 |:------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -83,7 +83,8 @@ As I process various sources and data, I continuously refine my data visualizati
 
 
 ## 📂 References
-I listed in the data source list.
+I listed it in the data source list.
+
 
 
 ## AI acknowledgements
