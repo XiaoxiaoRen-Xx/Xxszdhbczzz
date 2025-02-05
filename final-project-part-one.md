@@ -13,27 +13,24 @@ This issue extends beyond individual struggles; with obesity rates rising global
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one-sentence summary to make the topic even more clear.
 >
 
-## Setup: Where My Thought Came From?
+## 🔍Setup: Where My Thought Came From?
 
 Many of my friends have tried extreme diets—surviving on coffee and a cucumber. The weight drops fast, but so does their energy, and focus, and eventually, all the weight comes back.  
-
 This isn’t just personal; it’s a global issue. **Over 1 billion people worldwide are now classified as obese, and rates continue to rise. In desperation, many turn to crash diets, yet 95% fail, and over 75% regain the weight within 2-5 years.  
-
 With obesity becoming a growing crisis, it’s time to rethink weight loss—not as a quick fix, but as a sustainable, science-backed approach that actually works.
 
-## Conflict: What are the problems?
-Through research, I discovered that many popular diets are not scientifically sound and can harm health.
+## 🔥Conflict: What are the problems?
 
+Through research, I discovered that many popular diets are not scientifically sound and can harm health.
 Very Low-Calorie Diets (VLCDs) cause rapid weight loss but also slow metabolism, reduce muscle mass, and increase health risks.
 Short-term success, long-term failure: Over 75% of dieters regain weight, proving that extreme methods are unsustainable.
 People choose these diets because they lack the right information. I want to use data visualization to compare different weight-loss methods and highlight the importance of sustainable, science-based approaches.
 
-## Resolution: How are we going to fix it?
-The key to healthy weight loss is personalized, balanced nutrition scientifically. By calculating daily caloric needs based on height, weight, age, and activity level, people can lose weight effectively without harming their health.
+## ✅Resolution: How are we going to fix it?
 
+The key to healthy weight loss is personalized, balanced nutrition scientifically. By calculating daily caloric needs based on height, weight, age, and activity level, people can lose weight effectively without harming their health.
 In my project, I will compare the long-term effects of different diet strategies and provide an interactive tool that generates personalized nutrition plans. My goal is to help people understand that losing weight isn’t about eating less—it’s about eating right and sustainably!
 
-Text here...
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline and include elements of your story.  
@@ -62,9 +59,22 @@ Thoughts: The method(s) is TBD.
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
+## 📊 Global Obesity Rates 
+· Method: World map of 2016 and 2022, the comparisons indicating there is an increasing trend in obesity rate.
+· The World Obesity Federation’s 2024 report and the WHO Obesity Report highlight the alarming rise in global obesity rates, emphasizing the severity of the issue and the growing demand for effective weight-loss solutions.
+
+## ⚠️ Failure Rates & Health Risks of Extreme Dieting
+· Method: Bar chart or heat map, TBD.
+· Studies from the NIH (National Institutes of Health) and PubMed reveal that extreme dieting can lead to slowed metabolism, muscle loss, and hormonal imbalances. Worse, over 75% of people regain weight within 2-5 years, trapping them in a frustrating cycle of weight loss and rebound.
+
+## ✅ The Viability of Scientific Weight Loss
+· Method: A simple chart, like a table chart.
+· By referencing nutritional research and data from credible health influencers, I have compiled science-backed dietary strategies that help individuals create personalized, sustainable weight-loss plans—free from the pitfalls of extreme dieting.
+
+
 Text here...
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your GitHub repository, Box account or other publicly-accessible location. Using a data source that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+> A link to the publicly accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your GitHub repository, Box account or other publicly accessible location. Using a data source that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 |                                    **Name**                                    |                                                                     **URL**                                                                    |                                                                                                                                          **Description**                                                                                                                                          |
 |:------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -79,6 +89,8 @@ Text here...
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
+
+
 
 Text here...
 
