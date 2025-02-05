@@ -11,7 +11,7 @@ This issue extends beyond individual struggles; with obesity rates rising global
 ## 🔍 Setup: Where My Thought Came From?
 
 Many of my friends have tried extreme diets—surviving on coffee and a cucumber. The weight drops fast, but so does their energy, and focus, and eventually, all the weight comes back.  
-This isn’t just personal; it’s a global issue. **Over 1 billion people worldwide are now classified as obese, and rates continue to rise. In desperation, many turn to crash diets, yet 95% fail, and over 75% regain the weight within 2-5 years.  
+This isn’t just personal; it’s a global issue. Over 1 billion people worldwide are now classified as obese, and rates continue to rise. In desperation, many turn to crash diets, yet 95% fail, and over 75% regain the weight within 2-5 years.  
 With obesity becoming a growing crisis, it’s time to rethink weight loss—not as a quick fix, but as a sustainable, science-backed approach that actually works.
 
 ## 🔥 Conflict: What are the problems?
