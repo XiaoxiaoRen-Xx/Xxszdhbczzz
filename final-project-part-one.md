@@ -60,16 +60,16 @@ Thoughts: The method(s) is TBD.
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 ### 📊 Global Obesity Rates 
-· Method: World map of 2016 and 2022, the comparisons indicating there is an increasing trend in obesity rate.
-· The World Obesity Federation’s 2024 report and the WHO Obesity Report highlight the alarming rise in global obesity rates, emphasizing the severity of the issue and the growing demand for effective weight-loss solutions.
+Method: World map of 2016 and 2022, the comparisons indicating there is an increasing trend in obesity rate.
+The World Obesity Federation’s 2024 report and the WHO Obesity Report highlight the alarming rise in global obesity rates, emphasizing the severity of the issue and the growing demand for effective weight-loss solutions.
 
 ### ⚠️ Failure Rates & Health Risks of Extreme Dieting
-· Method: Bar chart or heat map, TBD.
-· Studies from the NIH (National Institutes of Health) and PubMed reveal that extreme dieting can lead to slowed metabolism, muscle loss, and hormonal imbalances. Worse, over 75% of people regain weight within 2-5 years, trapping them in a frustrating cycle of weight loss and rebound.
+Method: Bar chart or heat map, TBD.
+Studies from the NIH (National Institutes of Health) and PubMed reveal that extreme dieting can lead to slowed metabolism, muscle loss, and hormonal imbalances. Worse, over 75% of people regain weight within 2-5 years, trapping them in a frustrating cycle of weight loss and rebound.
 
 ### ✅ The Viability of Scientific Weight Loss
-· Method: A simple chart, like a table chart.
-· By referencing nutritional research and data from credible health influencers, I have compiled science-backed dietary strategies that help individuals create personalized, sustainable weight-loss plans—free from the pitfalls of extreme dieting.
+Method: A simple chart, like a table chart.
+By referencing nutritional research and data from credible health influencers, I have compiled science-backed dietary strategies that help individuals create personalized, sustainable weight-loss plans—free from the pitfalls of extreme dieting.
 
 
 Text here...
