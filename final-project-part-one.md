@@ -39,7 +39,6 @@ In my project, I will compare the long-term effects of different diet strategies
 2022 Obesity Rate Worldwide
 ![2022 Obesity Rate Worldwide](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/main/69f10530-e340-11ef-8266-5b3800b24186.png)
 
-![2022 Obesity Rate Worldwide](https://drive.google.com/file/d/1CcrvOflznnYbA7W01Jh6t4gql6CieS_9/view)
 
 > ### Data visualizations for the conflict stage
 Thoughts: The method(s) is TBD.
