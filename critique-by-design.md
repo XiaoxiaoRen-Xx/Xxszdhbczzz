@@ -37,7 +37,7 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Interview 1 | Interview 2 | Interview 3 |
+| Question | Interview 1 | Interview 2 | 
 |----------|-------------|-------------|
 |          |             |             |
 |          |             |             |
