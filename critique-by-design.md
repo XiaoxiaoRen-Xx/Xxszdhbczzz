@@ -63,6 +63,8 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 depends on what story I want to tell, I need to do the reduction on data interpretation
 if there are no dramatic changes, maybe just keeping the data for one year will be clear enough
 focus on proportion or just the amount of money will lead to different chart type choice
+don't be afraid of a simple or just called boring chart, a clear and straightforwad chart is always welcomed
+
 
 
 ## Step five: build the solution
