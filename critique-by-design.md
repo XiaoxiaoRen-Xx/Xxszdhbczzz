@@ -11,7 +11,12 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
+The data visualization I chose comes from Visual Capitalist, which shows the top 10 countries for global military spending in 2021. The original visualization can be found here, and in the text section it also presents data for the top five countries in global military spending from 2017 to 2021:
+
 🔗 [Visual Capitalist - Top 10 Countries by Military Spending (2021)](https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/)
+
+What initially attracted me to this visualization was its outstanding visual design. It uses an army green tone with a toy soldier pattern, which not only reminds people of the military theme at a glance, but is also very visually appealing. Even without looking at the title, the audience can quickly understand the message of this chart through these elements - it is related to the military. I have to admit that from a Visual Storytelling point of view, the design is a success.
+However, when I took a closer look at this visualization, I found some obvious problems. These questions made me realize that while the chart does a good job of engaging viewers, it still has a lot of room for improvement in the clarity and accuracy of its messaging. And these deficiencies are exactly what I want to optimize through redesign. I will explain in detail the problems I have found and what I can do to improve them.
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
