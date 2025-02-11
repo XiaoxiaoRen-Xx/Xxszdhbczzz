@@ -11,6 +11,8 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
+🔗 [Visual Capitalist - Top 10 Countries by Military Spending (2021)](https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/)
+
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
