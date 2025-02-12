@@ -53,6 +53,14 @@ Line chart version - Ranked World's Top 5 Countries on Military Spending during 
 ![Ranked World's Top 5 Countries on Military Spending during 2017-2021, line chart ver.](https://github.com/XiaoxiaoRen-Xx/Images-/blob/46250e4679d962dd8fd89a6882dc506c71c3165f/IMG_2539.jpg)
 
 
+Split bars version - Ranked World's Top 5 Countries on Military Spending during 2017-2021
+![Ranked World's Top 5 Countries on Military Spending during 2017-2021, split bars ver.](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/46250e4679d962dd8fd89a6882dc506c71c3165f/IMG_2538.jpg)
+
+Line chart version - Ranked World's Top 5 Countries on Military Spending during 2017-2021
+![Ranked World's Top 5 Countries on Military Spending during 2017-2021, line chart ver.](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/46250e4679d962dd8fd89a6882dc506c71c3165f/IMG_2539.jpg)
+
+
+
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
