@@ -53,7 +53,6 @@ Line chart version - Ranked World's Top 5 Countries on Military Spending during 
 ![Ranked World's Top 5 Countries on Military Spending during 2017-2021, line chart ver.](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/46250e4679d962dd8fd89a6882dc506c71c3165f/IMG_2539.jpg)
 
 
-
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
@@ -74,7 +73,7 @@ _Before you conduct your interviews, prepare a simple script.  Use this as a gui
 - student, Master of Entertainment Industry Management, late 20's
 - student, Master of Art Management, early 20's
 
-Results: 
+**Results:**
 
 | Question | Interview 1 | Interview 2 | Interview 3 |
 |---|---|---|---|
@@ -85,7 +84,6 @@ Results:
 | I'm a bit worried that after my redesign, the chart might become somewhat dull, or called less attractive to look at. The original data visualization is actually quite engaging and interesting. *I haven't shown them the original design.*  | No! Don't worry about it at all cuz as long as you tell the information and the story you want to tell, then it's 100% fine! I don't want to look at a "good-looking" chart and gain nothing useful info from that. | Yes! 100% agree!  | Same! A good or professional chart doesn't mean it has a complicated or "funny "design! |
 | Is there anything you would change or do differently?  | Not that much because I already see the two different options you made for the redesign and I think both of them work! It really depends on what story you want to tell and then choose the right one. | Yes, but I still want to call back to my first thought that maybe you can just put the data for 2017 and 2021 or just one year is also fine because for me the changes are not that unexpected. But I also can get the thought of you want to show the trend so great job still! | Same! My only concern is for the countries For countries with very similar data, their lines overlapping and getting tangled together might be something I need to think through more carefully. You might want to reconsider or try a different way to present it. |
 | Is there anything else that might want to be added? I'm welcome to every comment!  | And actually I have another idea—what if we compare the percentage of each country's military spending relative to its annual budget? I think that would also be a great point to consider but I do not know the original data so I just saying this perspective can be also fun to look at. | Oh good catch! But it might need more data.  | Yeah, so true.  |
-
 
 **Synthesis**
 
