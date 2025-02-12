@@ -109,6 +109,10 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
+**My Redesign**
+<iframe title="Ranked: Top Five Countries Worldwide on Military Spending" aria-label="Split Bars" id="datawrapper-chart-aSJGo" src="https://datawrapper.dwcdn.net/aSJGo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="323" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
 ## References
 _List any references you used here._
 
