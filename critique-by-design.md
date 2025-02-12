@@ -1,11 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+**Hiii😄! How are you doing?**
+**Welcome to my critique by design task! I picked a very interesting data visualization and I tried to make some improvement on this.
+Feel free to leave comments and suggestions! Hope you enjoy seeing the whole process of my REDESIGN!**
 
 ## 🔍STEP ONE: The original data visualization
 
@@ -61,16 +58,14 @@ Line chart version - Ranked World's Top 5 Countries on Military Spending during 
 
 ## 🎙️STEP FOUR: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
 **Questions:**
 
 - Can you tell me what you think this is?
 - Can you describe to me what this is telling you?
 - Is there anything you find surprising or confusing?
 - Who do you think is the intended audience for this?
+-Is there anything you would change or do differently?
 - I'm a bit worried that after my redesign, the chart might become somewhat dull, or called less attractive to look at. The original data visualization is actually quite engaging and interesting.
-- Is there anything you would change or do differently?
 - Is there anything else that might want to be added? I'm welcome to every comment!
 
 **Interviewers:**
@@ -104,20 +99,7 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 
 ## 💡STEP FIVE: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
-**My Redesign**
-
-## Ranked: Top Five Countries Worldwide on Military Spending
-
-[📊 Click here to view the original interactive visualization redesigned by me! ](https://datawrapper.dwcdn.net/aSJGo/1/)
-
-Re-design version - Ranked World's Top 5 Countries on Military Spending during 2017-2021
-![Ranked World's Top 5 Countries on Military Spending during 2017-2021, re-design ver.](https://github.com/XiaoxiaoRen-Xx/Images-/blob/7628d2245f6ab891f993de57cabf15ddb78569d0/anked-top-five-countries-worldwide-on-military-spending.png?raw=true)
-
-**My Final Thoughts**
-
-**Key Improvements:**
+**My Final Thoughts and Key Improvements:**
 
 - Better Data Readability
   The original irregular pie chart made comparisons difficult. Switching to split bars ensures a clear, accurate representation of each country’s military spending.
@@ -131,10 +113,27 @@ Re-design version - Ranked World's Top 5 Countries on Military Spending during 2
 - More Meaningful Insights
   Unlike the original, which only showed data for 2021, my version highlights trends over time (2017-2021), helping viewers see which countries have ramped up or maintained their spending.
 
+**My Redesign**
+
+Datawrapper link:
+[📊 Click here to view the original interactive visualization redesigned by me! ](https://datawrapper.dwcdn.net/aSJGo/1/)
+
+Re-design version - Ranked World's Top 5 Countries on Military Spending during 2017-2021
+![Ranked World's Top 5 Countries on Military Spending during 2017-2021, re-design ver.](https://github.com/XiaoxiaoRen-Xx/Images-/blob/7628d2245f6ab891f993de57cabf15ddb78569d0/anked-top-five-countries-worldwide-on-military-spending.png?raw=true)
+
+
 
 ## References
-_List any references you used here._
+The original website: https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/
+Few, Stephen. *Data Visualization Effectiveness Profile.* Perceptual Edge, *Visual Business Intelligence Newsletter*, Jan.–Mar. 2017.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+1. Post-Monday Interview Reflections: After our Monday interview, my teammates brought up some fresh perspectives that were actually quite different from my initial thoughts. This made me seriously question my own judgment. Even though I was tempted to change my approach, I still felt strongly about my original idea. So, I turned to ChatGPT—not for answers, but more for a sanity check. I explained my reasoning, we went back and forth a bit, and in the end, I decided to stick to my gut. (AI didn’t contribute to my work, but it did give me some emotional support🤣!)  
+
+2. Fixing the Image Display Issue: I kept running into this weird problem where my images would show up just fine in the preview but wouldn’t appear on my portfolio webpage. I asked ChatGPT for help, and it pointed out that I needed to adjust the image links to the correct raw format. After making the fix, everything worked perfectly!  
+
+3. Tableau Instructions: While working with Tableau, I had a few roadblocks while creating my charts, so I asked ChatGPT for guidance on some technical aspects. However, in the end, I decided not to use Tableau for my final visualization.  
+
+4. Help out with my writing！: In Step 5, I wanted to make my explanations clearer and more concise. ChatGPT helped refine my wording, ensuring that my points were more precise and impactful.
 
