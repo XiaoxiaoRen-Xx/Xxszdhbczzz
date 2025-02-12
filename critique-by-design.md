@@ -110,19 +110,13 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 **My Redesign**
+
 ## Ranked: Top Five Countries Worldwide on Military Spending
 
-[📊 Click here to view the interactive visualization](https://datawrapper.dwcdn.net/aSJGo/1/)
+[📊 Click here to view the original interactive visualization redesigned by me! ](https://datawrapper.dwcdn.net/aSJGo/1/)
 
 Re-design version - Ranked World's Top 5 Countries on Military Spending during 2017-2021
 ![Ranked World's Top 5 Countries on Military Spending during 2017-2021, re-design ver.](https://github.com/XiaoxiaoRen-Xx/Images-/blob/7628d2245f6ab891f993de57cabf15ddb78569d0/anked-top-five-countries-worldwide-on-military-spending.png?raw=true)
-
-
-(https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/blob/7628d2245f6ab891f993de57cabf15ddb78569d0/anked-top-five-countries-worldwide-on-military-spending.png)
-
-## Ranked: Top Five Countries Worldwide on Military Spending
-
-![Military Spending Chart](https://github.com/XiaoxiaoRen-Xx/Images-/blob/7628d2245f6ab891f993de57cabf15ddb78569d0/anked-top-five-countries-worldwide-on-military-spending.png?raw=true)
 
 
 ## References
