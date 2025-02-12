@@ -44,6 +44,11 @@ I picked this chart because it’s visually striking and instantly screams milit
 
 ## Step three: Sketch a solution
 
+Split bars version - Ranked World's Top 5 Countries on Military Spending during 2017-2021
+![Ranked World's Top 5 Countries on Military Spending during 2017-2021, split bars ver.](https://github.com/XiaoxiaoRen-Xx/Images-/blob/46250e4679d962dd8fd89a6882dc506c71c3165f/IMG_2538.jpg)
+
+Line chart version - Ranked World's Top 5 Countries on Military Spending during 2017-2021
+![Ranked World's Top 5 Countries on Military Spending during 2017-2021, line chart ver.](https://github.com/XiaoxiaoRen-Xx/Images-/blob/46250e4679d962dd8fd89a6882dc506c71c3165f/IMG_2539.jpg)
 
 
 ## Step four: Test the solution
