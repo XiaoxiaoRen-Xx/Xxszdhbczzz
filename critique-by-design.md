@@ -68,6 +68,8 @@ Questions to ask (modify these for your own interviews):
 
 - Who do you think is the intended audience for this?
 
+- I'm a bit worried that after my redesign, the chart might become somewhat dull. The original data visualization is actually quite engaging and interesting.
+
 - Is there anything you would change or do differently?
 
 Results: 
@@ -82,10 +84,11 @@ _Don't identify or share personally identifiable information (PII) about the peo
 | Question | Interview 1 | Interview 2 | Interview 3 |
 |---|---|---|---|
 | Can you tell me what you think this is?  | I can tell it's the world's top 5 countries in military spending from 2017-2021. | Same.  | Yeah, the topic and story are quite straightforward and obvious to me.  |
+| Can you describe to me what this is telling you?  | I can see the differences between these 5 countries in a very clear way, no matter in split bars or line charts. | Same. And the US really stands out. | Yeah, both of the visualizations are clear to me and I can tell the same things as they just mentioned.  |
 | Is there anything you find surprising or confusing?  | The overall structure is good, but I can tell there were no very dramatic and significant changes these years, so I will be thinking you can just put the data for only one year. | I actually hold a different opinion because the data over the past five years clearly shows a trend, which helps the audience understand the pattern. | Yeah, it really depends on what kind of story you want to tell, so of course the split bars and line charts both work for me and I will probably not prefer just only look at the data for only one year.  |
 | Who do you think is the intended audience for this?  | For the military enthusiast? Like my dad? haha   | Yeah, same.  | Yes, the first one that comes into my mind is military fans.  |
 | I'm a bit worried that after my redesign, the chart might become somewhat dull. The original data visualization is actually quite engaging and interesting. *I haven't shown them the original design.*  | No! Don't worry about it at all cuz as long as you tell the information and the story you want to tell, then it's 100% fine! I don't want to look at a "good-looking" chart and gain nothing useful info from that. | Yes! 100% agree!  | Same!  |
-
+| Is there anything you would change or do differently?  | Not that much because I already see the two different options you made for the redesign and I think both of them work! It really depends on what story you want to tell and then choose the right one. | Yes, but I still want to call back to my first thought that maybe you can just put the data for 2017 and 2021 or just one year is also fine because for me the changes are not that unexpected. But I also can get the thought of you want to show the trend so great job still! | Same! My only concern is for the countries For countries with very similar data, their lines overlapping and getting tangled together might be something I need to think through more carefully. You might want to reconsider or try a different way to present it. |
 
 Synthesis: 
 
