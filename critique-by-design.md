@@ -27,19 +27,19 @@ I picked this chart because it’s visually striking and instantly screams milit
 
 ### What’s Not Working?  
 
-- **Hard to Compare Numbers**  
+- **Hard to compare numbers**  
   The irregular pie chart shapes make it tricky to compare spending across countries. Japan, South Korea, and Germany have similar budgets, but their section sizes feel off, which could mislead viewers.  
 
-- **Ranking Gets Lost**  
+- **Ranking gets lost due to design**  
   The chart does rank military spending from highest to lowest, but the numbers are small and easy to miss. A good visualization should make hierarchy obvious—this one doesn’t.  
 
-- **"Rest of the World" Feels Unclear**  
+- **"Rest of the World" Feels unclear and unnecessary**  
   This section doesn’t add much value. It’s vague about which countries are included and might just distract from the main story.  
 
-- **Too Many Decorations, Not Enough Clarity**  
+- **Too many decorations cause not enough clarity**  
   The toy soldier graphics and 3D effects look cool but don’t actually help people understand the data. Instead, they clutter the chart and make it harder to read.  
 
-Bottom line: **Great aesthetics, but at the cost of clarity.** A cleaner, more intuitive design would make the data much easier to digest.
+**Bottom line:** Great aesthetics, but at the cost of clarity. A cleaner, more intuitive design would make the data much easier to digest.
 
 
 ## Step three: Sketch a solution
@@ -56,7 +56,7 @@ Questions:
 - Can you describe to me what this is telling you?
 - Is there anything you find surprising or confusing?
 - Who do you think is the intended audience for this?
-- I'm a bit worried that after my redesign, the chart might become somewhat dull. The original data visualization is actually quite engaging and interesting.
+- I'm a bit worried that after my redesign, the chart might become somewhat dull, or called less attractive to look at. The original data visualization is actually quite engaging and interesting.
 - Is there anything you would change or do differently?
 - Is there anything else that might want to be added? I'm welcome to every comment!
 
@@ -76,7 +76,7 @@ Results:
 | Can you describe to me what this is telling you?  | I can see the differences between these 5 countries in a very clear way, no matter in split bars or line charts. | Same. And the US really stands out. | Yeah, both of the visualizations are clear to me and I can tell the same things as they just mentioned.  |
 | Is there anything you find surprising or confusing?  | The overall structure is good, but I can tell there were no very dramatic and significant changes these years, so I will be thinking you can just put the data for only one year. | I actually hold a different opinion because the data over the past five years clearly shows a trend, which helps the audience understand the pattern. | Yeah, it really depends on what kind of story you want to tell, so of course the split bars and line charts both work for me and I will probably not prefer just only look at the data for only one year.  |
 | Who do you think is the intended audience for this?  | For the military enthusiast? Like my dad? haha   | Yeah, same.  | Yes, the first one that comes into my mind is military fans.  |
-| I'm a bit worried that after my redesign, the chart might become somewhat dull. The original data visualization is actually quite engaging and interesting. *I haven't shown them the original design.*  | No! Don't worry about it at all cuz as long as you tell the information and the story you want to tell, then it's 100% fine! I don't want to look at a "good-looking" chart and gain nothing useful info from that. | Yes! 100% agree!  | Same!  |
+| I'm a bit worried that after my redesign, the chart might become somewhat dull, or called less attractive to look at. The original data visualization is actually quite engaging and interesting. *I haven't shown them the original design.*  | No! Don't worry about it at all cuz as long as you tell the information and the story you want to tell, then it's 100% fine! I don't want to look at a "good-looking" chart and gain nothing useful info from that. | Yes! 100% agree!  | Same!  |
 | Is there anything you would change or do differently?  | Not that much because I already see the two different options you made for the redesign and I think both of them work! It really depends on what story you want to tell and then choose the right one. | Yes, but I still want to call back to my first thought that maybe you can just put the data for 2017 and 2021 or just one year is also fine because for me the changes are not that unexpected. But I also can get the thought of you want to show the trend so great job still! | Same! My only concern is for the countries For countries with very similar data, their lines overlapping and getting tangled together might be something I need to think through more carefully. You might want to reconsider or try a different way to present it. |
 | Is there anything else that might want to be added? I'm welcome to every comment!  | And actually I have another idea—what if we compare the percentage of each country's military spending relative to its annual budget? I think that would also be a great point to consider but I do not know the original data so I just saying this perspective can be also fun to look at. | Oh good catch! But it might need more data.  | Yeah, so true.  |
 
