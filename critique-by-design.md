@@ -21,35 +21,25 @@ However, when I took a closer look at this visualization, I found some obvious p
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
-#### Why Did I Choose This Visualization?
+### Why Did I Choose This Visualization?  
 
-I selected this visualization for a few key reasons:  
+I picked this chart because it’s visually striking and instantly screams military spending with its green tones and toy soldier elements. It’s engaging, but that strong aesthetic comes at a cost—readability takes a hit.  
 
-1. **Visually Appealing with a Strong Thematic Representation**  
-   - The use of military green tones and toy soldier elements immediately reinforces the theme of military spending, making the chart visually engaging and easy to associate with its topic.  
-   - The strong visual storytelling helps draw viewers in, allowing them to quickly grasp the context of the data.  
-   - However, the heavy emphasis on aesthetics comes at the cost of readability, as the visual elements might distract viewers from the actual data.  
+### What’s Not Working?  
 
-2. **Despite Its Engaging Design, Several Issues Hinder Data Readability and Accuracy**  
+- **Hard to Compare Numbers**  
+  The irregular pie chart shapes make it tricky to compare spending across countries. Japan, South Korea, and Germany have similar budgets, but their section sizes feel off, which could mislead viewers.  
 
-   a: Difficult to Make Precise Comparisons
-     - The chart uses a modified pie chart format, where each country’s spending is represented by **irregularly shaped sections**. This makes it difficult for viewers to accurately compare military expenditures across countries.  
-     - The proportions are not entirely intuitive—for instance, Japan, South Korea, and Germany have similar spending figures, yet their segment sizes appear inconsistent. This could lead to misinterpretation of the actual differences between countries.  
+- **Ranking Gets Lost**  
+  The chart does rank military spending from highest to lowest, but the numbers are small and easy to miss. A good visualization should make hierarchy obvious—this one doesn’t.  
 
-   b: Ranking Information Is Not Clearly Highlighted  
-     - While the chart is sorted by military spending from highest to lowest, **the ranking numbers are too small and not emphasized**, making them hard to spot at a glance.  
-     - According to Stephen Few’s Data Visualization Effectiveness Profile, a well-designed visualization should clearly present hierarchical information, which this chart fails to do effectively.  
+- **"Rest of the World" Feels Unclear**  
+  This section doesn’t add much value. It’s vague about which countries are included and might just distract from the main story.  
 
-   c: The "Rest of the World" Section Could Be Misleading 
-     - The chart includes a "Rest of the World" category, but this section does not add meaningful context to the story. Instead, it may distract or confuse viewers by:  
-       - Lacking transparency—it does not specify which countries are included in this category.  
-       - Not contributing to the main message—viewers might focus on this section, only to realize it provides little useful information.  
+- **Too Many Decorations, Not Enough Clarity**  
+  The toy soldier graphics and 3D effects look cool but don’t actually help people understand the data. Instead, they clutter the chart and make it harder to read.  
 
-   d: Excessive Decorative Elements Interfere with Information Clarity
-     - While the toy soldier graphics enhance visual appeal, they do not improve data readability and may actually distract from the key insights.  
-     - The heavy use of gradients, shadows, and 3D effects complicates the data presentation, reducing overall clarity.  
-     - As highlighted in *Good Charts*, effective visualizations should minimize unnecessary decorations, ensuring that viewers can quickly grasp the key information without being overwhelmed by visual noise.  
-
+Bottom line: **Great aesthetics, but at the cost of clarity.** A cleaner, more intuitive design would make the data much easier to digest.
 
 
 ## Step three: Sketch a solution
