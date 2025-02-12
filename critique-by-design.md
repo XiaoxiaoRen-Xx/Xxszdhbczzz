@@ -15,8 +15,6 @@ The data visualization I chose comes from Visual Capitalist, which shows the top
 
 🔗 [Visual Capitalist - Top 10 Countries by Military Spending (2021)](https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/)
 
-![Visual Capitalist - Top 10 Countries by Military Spending (2021)](https://github.com/XiaoxiaoRen-Xx/Images-/blob/d92d365ca457b3c5451511dc8f5d7717b4485ab0/IMG_2540.jpg)
-
 ![Visual Capitalist - Top 10 Countries by Military Spending (2021)](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/d92d365ca457b3c5451511dc8f5d7717b4485ab0/IMG_2540.jpg)
 
 
@@ -47,13 +45,6 @@ I picked this chart because it’s visually striking and instantly screams milit
 
 
 ## Step three: Sketch a solution
-
-Split bars version - Ranked World's Top 5 Countries on Military Spending during 2017-2021
-![Ranked World's Top 5 Countries on Military Spending during 2017-2021, split bars ver.](https://github.com/XiaoxiaoRen-Xx/Images-/blob/46250e4679d962dd8fd89a6882dc506c71c3165f/IMG_2538.jpg)
-
-Line chart version - Ranked World's Top 5 Countries on Military Spending during 2017-2021
-![Ranked World's Top 5 Countries on Military Spending during 2017-2021, line chart ver.](https://github.com/XiaoxiaoRen-Xx/Images-/blob/46250e4679d962dd8fd89a6882dc506c71c3165f/IMG_2539.jpg)
-
 
 Split bars version - Ranked World's Top 5 Countries on Military Spending during 2017-2021
 ![Ranked World's Top 5 Countries on Military Spending during 2017-2021, split bars ver.](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/46250e4679d962dd8fd89a6882dc506c71c3165f/IMG_2538.jpg)
