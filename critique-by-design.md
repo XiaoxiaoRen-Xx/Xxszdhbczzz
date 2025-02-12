@@ -7,7 +7,7 @@ _For each step below, you should document your progress as you move forward.  In
 
 _You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
-## 🔍Step one: The original data visualization
+## 🔍STEP ONE: The original data visualization
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
@@ -20,7 +20,7 @@ The data visualization I chose comes from Visual Capitalist, which shows the top
 What initially attracted me to this visualization was its outstanding visual design. It uses an army green tone with a toy soldier pattern, which not only reminds people of the military theme at a glance, but is also very visually appealing. Even without looking at the title, the audience can quickly understand the message of this chart through these elements - it is related to the military. I have to admit that from a Visual Storytelling point of view, the design is a success.
 However, when I took a closer look at this visualization, I found some obvious problems. These questions made me realize that while the chart does a good job of engaging viewers, it still has a lot of room for improvement in the clarity and accuracy of its messaging. And these deficiencies are exactly what I want to optimize through redesign. I will explain in detail the problems I have found and what I can do to improve them.
 
-## 🧐Step two: the critique
+## 🧐STEP TWO: the critique
 
 ### Why Did I Choose This Visualization?  
 
@@ -50,7 +50,7 @@ I picked this chart because it’s visually striking and instantly screams milit
 7.	Engagement：7/10
 
 
-## ✏️Step three: Sketch a solution
+## ✏️STEP THREE: Sketch a solution
 
 Split bars version - Ranked World's Top 5 Countries on Military Spending during 2017-2021
 ![Ranked World's Top 5 Countries on Military Spending during 2017-2021, split bars ver.](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/46250e4679d962dd8fd89a6882dc506c71c3165f/IMG_2538.jpg)
@@ -59,7 +59,7 @@ Line chart version - Ranked World's Top 5 Countries on Military Spending during 
 ![Ranked World's Top 5 Countries on Military Spending during 2017-2021, line chart ver.](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/46250e4679d962dd8fd89a6882dc506c71c3165f/IMG_2539.jpg)
 
 
-## 🎙️Step four: Test the solution
+## 🎙️STEP FOUR: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
@@ -102,7 +102,7 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 
 
 
-## 💡Step five: build the solution
+## 💡STEP FIVE: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
