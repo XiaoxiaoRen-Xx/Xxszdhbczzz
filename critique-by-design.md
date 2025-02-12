@@ -1,12 +1,11 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 **Hiii😄! How are you doing?**
+
 **Welcome to my critique by design task! I picked a very interesting data visualization and I tried to make some improvement on this.
 Feel free to leave comments and suggestions! Hope you enjoy seeing the whole process of my REDESIGN!**
 
 ## 🔍STEP ONE: The original data visualization
-
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 The data visualization I chose comes from Visual Capitalist, which shows the top 10 countries for global military spending in 2021. The original visualization can be found here, and in the text section it also presents data for the top five countries in global military spending from 2017 to 2021:
 
