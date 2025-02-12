@@ -7,7 +7,7 @@ _For each step below, you should document your progress as you move forward.  In
 
 _You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
-## Step one: The original data visualization
+## 🔍Step one: The original data visualization
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
@@ -17,11 +17,10 @@ The data visualization I chose comes from Visual Capitalist, which shows the top
 
 ![Visual Capitalist - Top 10 Countries by Military Spending (2021)](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/d92d365ca457b3c5451511dc8f5d7717b4485ab0/IMG_2540.jpg)
 
-
 What initially attracted me to this visualization was its outstanding visual design. It uses an army green tone with a toy soldier pattern, which not only reminds people of the military theme at a glance, but is also very visually appealing. Even without looking at the title, the audience can quickly understand the message of this chart through these elements - it is related to the military. I have to admit that from a Visual Storytelling point of view, the design is a success.
 However, when I took a closer look at this visualization, I found some obvious problems. These questions made me realize that while the chart does a good job of engaging viewers, it still has a lot of room for improvement in the clarity and accuracy of its messaging. And these deficiencies are exactly what I want to optimize through redesign. I will explain in detail the problems I have found and what I can do to improve them.
 
-## Step two: the critique
+## 🧐Step two: the critique
 
 ### Why Did I Choose This Visualization?  
 
@@ -35,15 +34,13 @@ I picked this chart because it’s visually striking and instantly screams milit
 - **Ranking gets lost due to design**  
   The chart does rank military spending from highest to lowest, but the numbers are small and easy to miss. A good visualization should make hierarchy obvious—this one doesn’t.  
 
-- **"Rest of the World" Feels unclear and unnecessary**  
+- **"Rest of the World" part feels unclear and unnecessary**  
   This section doesn’t add much value. It’s vague about which countries are included and might just distract from the main story.  
 
 - **Too many decorations cause not enough clarity**  
   The toy soldier graphics and 3D effects look cool but don’t actually help people understand the data. Instead, they clutter the chart and make it harder to read.  
 
-**Bottom line:** Great aesthetics, but at the cost of clarity. A cleaner, more intuitive design would make the data much easier to digest.
-
-Grade 
+**Grade: Based on Stephen Few’s data visualization effectiveness profile**
 1.	Usefulness：7/10
 2.	Completeness：6/10
 3.	Perceptibility：6/10
@@ -53,7 +50,7 @@ Grade
 7.	Engagement：7/10
 
 
-## Step three: Sketch a solution
+## ✏️Step three: Sketch a solution
 
 Split bars version - Ranked World's Top 5 Countries on Military Spending during 2017-2021
 ![Ranked World's Top 5 Countries on Military Spending during 2017-2021, split bars ver.](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/46250e4679d962dd8fd89a6882dc506c71c3165f/IMG_2538.jpg)
@@ -62,7 +59,7 @@ Line chart version - Ranked World's Top 5 Countries on Military Spending during 
 ![Ranked World's Top 5 Countries on Military Spending during 2017-2021, line chart ver.](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/46250e4679d962dd8fd89a6882dc506c71c3165f/IMG_2539.jpg)
 
 
-## Step four: Test the solution
+## 🎙️Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
@@ -105,7 +102,7 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 
 
 
-## Step five: build the solution
+## 💡Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
@@ -117,6 +114,22 @@ _Include and describe your final solution here. It's also a good idea to summari
 
 Re-design version - Ranked World's Top 5 Countries on Military Spending during 2017-2021
 ![Ranked World's Top 5 Countries on Military Spending during 2017-2021, re-design ver.](https://github.com/XiaoxiaoRen-Xx/Images-/blob/7628d2245f6ab891f993de57cabf15ddb78569d0/anked-top-five-countries-worldwide-on-military-spending.png?raw=true)
+
+**My Final Thoughts**
+
+**Key Improvements:**
+
+- Better Data Readability
+  The original irregular pie chart made comparisons difficult. Switching to split bars ensures a clear, accurate representation of each country’s military spending.
+  I ultimately decided against using a line chart because India, the UK, and Russia's lines overlapped too much, making it messy and hard to read. While line charts are great for showing trends, clarity always comes first, and this one just wasn’t cutting it.
+   Instead of using national flags, I assigned distinct colors to each country, making it easier for viewers to recognize them at a glance.
+
+- Clearer Information Hierarchy
+  Direct value labels inside the bars eliminate the need for viewers to search for numbers, making the data more accessible.
+  The structured layout and design reduce the attraction of unnecessary items, allowing for quicker and easier interpretation.
+
+- More Meaningful Insights
+  Unlike the original, which only showed data for 2021, my version highlights trends over time (2017-2021), helping viewers see which countries have ramped up or maintained their spending.
 
 
 ## References
