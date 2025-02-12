@@ -83,8 +83,8 @@ Synthesis/ Key Takeaways!
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
-- Some people think the five-year data doesn’t change much, so keeping just one year would be clearer; others believe the trend matters—it all depends on the story you want to tell. 
-- Don’t worry about the chart being too simple—everyone agrees that clarity is the big key! No one wants a flashy chart with no real insights.  
+- Some people think the five-year data doesn’t change much, so keeping just one year would be clearer; others believe the trend matters, it all really depends on the story you want to tell. 
+- Don’t worry about the chart being too simple that everyone agrees that clarity is the big key! No one wants a flashy chart with no real insights.  
 - Overlapping lines in the line chart might be frustrating; maybe tweaking colors, styles, or trying different kinds of charts to see which is the best can be helped!
 - Comparing military spending as a percentage of the annual budget sounds intriguing—if the data allows, it could be a great addition, but remember to focus on the story I want to tell so do the reduction or addition wisely!
 
