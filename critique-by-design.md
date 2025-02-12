@@ -17,6 +17,8 @@ The data visualization I chose comes from Visual Capitalist, which shows the top
 
 ![Visual Capitalist - Top 10 Countries by Military Spending (2021)](https://github.com/XiaoxiaoRen-Xx/Images-/blob/d92d365ca457b3c5451511dc8f5d7717b4485ab0/IMG_2540.jpg)
 
+![Visual Capitalist - Top 10 Countries by Military Spending (2021)](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/d92d365ca457b3c5451511dc8f5d7717b4485ab0/IMG_2540.jpg)
+
 
 What initially attracted me to this visualization was its outstanding visual design. It uses an army green tone with a toy soldier pattern, which not only reminds people of the military theme at a glance, but is also very visually appealing. Even without looking at the title, the audience can quickly understand the message of this chart through these elements - it is related to the military. I have to admit that from a Visual Storytelling point of view, the design is a success.
 However, when I took a closer look at this visualization, I found some obvious problems. These questions made me realize that while the chart does a good job of engaging viewers, it still has a lot of room for improvement in the clarity and accuracy of its messaging. And these deficiencies are exactly what I want to optimize through redesign. I will explain in detail the problems I have found and what I can do to improve them.
