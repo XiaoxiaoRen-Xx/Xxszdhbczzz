@@ -43,6 +43,15 @@ I picked this chart because it’s visually striking and instantly screams milit
 
 **Bottom line:** Great aesthetics, but at the cost of clarity. A cleaner, more intuitive design would make the data much easier to digest.
 
+Grade 
+1.	Usefulness：7/10
+2.	Completeness：6/10
+3.	Perceptibility：6/10
+4.	Truthfulness：8/10
+5.	Intuitiveness：5/10
+6.	Aesthetics：8/10
+7.	Engagement：7/10
+
 
 ## Step three: Sketch a solution
 
