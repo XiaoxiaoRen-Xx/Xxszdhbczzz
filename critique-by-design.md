@@ -17,14 +17,11 @@ The data visualization I chose comes from Visual Capitalist, which shows the top
 
 ![Visual Capitalist - Top 10 Countries by Military Spending (2021)](https://github.com/XiaoxiaoRen-Xx/Images-/blob/d92d365ca457b3c5451511dc8f5d7717b4485ab0/IMG_2540.jpg)
 
-<img src="[https://github.com/XiaoxiaoRen-Xx/Images-/blob/d92d365ca457b3c5451511dc8f5d7717b4485ab0/IMG_2540.jpg]" width="100">
-
 
 What initially attracted me to this visualization was its outstanding visual design. It uses an army green tone with a toy soldier pattern, which not only reminds people of the military theme at a glance, but is also very visually appealing. Even without looking at the title, the audience can quickly understand the message of this chart through these elements - it is related to the military. I have to admit that from a Visual Storytelling point of view, the design is a success.
 However, when I took a closer look at this visualization, I found some obvious problems. These questions made me realize that while the chart does a good job of engaging viewers, it still has a lot of room for improvement in the clarity and accuracy of its messaging. And these deficiencies are exactly what I want to optimize through redesign. I will explain in detail the problems I have found and what I can do to improve them.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 ### Why Did I Choose This Visualization?  
 
@@ -60,7 +57,7 @@ Line chart version - Ranked World's Top 5 Countries on Military Spending during 
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
-Questions: 
+**Questions:**
 
 - Can you tell me what you think this is?
 - Can you describe to me what this is telling you?
@@ -70,7 +67,7 @@ Questions:
 - Is there anything you would change or do differently?
 - Is there anything else that might want to be added? I'm welcome to every comment!
 
-Interviewers:
+**Interviewers:**
 
 - student, Master of Science in Public Policy and Management, early 20's
 - student, Master of Entertainment Industry Management, late 20's
@@ -89,7 +86,7 @@ Results:
 | Is there anything else that might want to be added? I'm welcome to every comment!  | And actually I have another idea—what if we compare the percentage of each country's military spending relative to its annual budget? I think that would also be a great point to consider but I do not know the original data so I just saying this perspective can be also fun to look at. | Oh good catch! But it might need more data.  | Yeah, so true.  |
 
 
-Synthesis/ Key Takeaways!
+**Synthesis**
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
