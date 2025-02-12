@@ -7,7 +7,7 @@ _For each step below, you should document your progress as you move forward.  In
 
 _You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
-## Step one: the visualization
+## Step one: The original data visualization
 
 _Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
@@ -61,8 +61,6 @@ Questions:
 - Is there anything else that might want to be added? I'm welcome to every comment!
 
 Interviewers:
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 - student, Master of Science in Public Policy and Management, early 20's
 - student, Master of Entertainment Industry Management, late 20's
