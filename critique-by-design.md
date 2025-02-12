@@ -32,20 +32,20 @@ I selected this visualization for a few key reasons:
 
 2. **Despite Its Engaging Design, Several Issues Hinder Data Readability and Accuracy**  
 
-   - Difficult to Make Precise Comparisons
+   a: Difficult to Make Precise Comparisons
      - The chart uses a modified pie chart format, where each country’s spending is represented by **irregularly shaped sections**. This makes it difficult for viewers to accurately compare military expenditures across countries.  
      - The proportions are not entirely intuitive—for instance, Japan, South Korea, and Germany have similar spending figures, yet their segment sizes appear inconsistent. This could lead to misinterpretation of the actual differences between countries.  
 
-   - Ranking Information Is Not Clearly Highlighted  
+   b: Ranking Information Is Not Clearly Highlighted  
      - While the chart is sorted by military spending from highest to lowest, **the ranking numbers are too small and not emphasized**, making them hard to spot at a glance.  
      - According to Stephen Few’s Data Visualization Effectiveness Profile, a well-designed visualization should clearly present hierarchical information, which this chart fails to do effectively.  
 
-   - The "Rest of the World" Section Could Be Misleading 
+   c: The "Rest of the World" Section Could Be Misleading 
      - The chart includes a "Rest of the World" category, but this section does not add meaningful context to the story. Instead, it may distract or confuse viewers by:  
        - Lacking transparency—it does not specify which countries are included in this category.  
        - Not contributing to the main message—viewers might focus on this section, only to realize it provides little useful information.  
 
-   - Excessive Decorative Elements Interfere with Information Clarity
+   d: Excessive Decorative Elements Interfere with Information Clarity
      - While the toy soldier graphics enhance visual appeal, they do not improve data readability and may actually distract from the key insights.  
      - The heavy use of gradients, shadows, and 3D effects complicates the data presentation, reducing overall clarity.  
      - As highlighted in *Good Charts*, effective visualizations should minimize unnecessary decorations, ensuring that viewers can quickly grasp the key information without being overwhelmed by visual noise.  
@@ -74,12 +74,15 @@ Results:
 
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
-MSPPM
-MEIM
-MAM
+- student, MSPPM, early 20's
+- student, MEIM, late 20's
+- student, MAM, early 20's
 
 | Question | Interview 1 | Interview 2 | 
 |----------|-------------|-------------|
+|    Can you tell me what you think this is?      |             |             |
+|    Is there anything you find surprising or confusing?      |             |             |
+|          |             |             |
 |          |             |             |
 |          |             |             |
 |          |             |             |
@@ -87,12 +90,16 @@ MAM
 
 | Question | Interview 1 | Interview 2 | Interview 3 |
 |---|---|---|---|
+| Can you tell me what you think this is?  | I can tell it's the world's top 5 countries in military spending from 2017-2021. | Same.  | Yeah, the topic and story are quite straightforward and obvious to me.  |
+| Is there anything you find surprising or confusing?  | The overall structure is good, but I can tell there were no very dramatic and significant changes these years, so I will be thinking you can just put the data for only one year. | I actually hold a different opinion because the data over the past five years clearly shows a trend, which helps the audience understand the pattern. | Yeah, it really depends on what kind of story you want to tell, so of course the split bars and line charts both work for me and I will probably not prefer just only look at the data for only one year.  |
+| Who do you think is the intended audience for this?  | For the military enthusiast? Like my dad? haha   | Yeah, same.  | Yes, the first one that comes into my mind is military fans.  |
+| I'm a bit worried that after my redesign, the chart might become somewhat dull. The original data visualization is actually quite engaging and interesting. *I haven't shown them the original design.*  | No! Don't worry about it at all cuz as long as you tell the information and the story you want to tell, then it's 100% fine! I don't want to look at a "good-looking" chart and gain nothing useful info from that. | Yes! 100% agree!  | Same!  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
-|   |   |   |   |
+
 
 Synthesis: 
 
