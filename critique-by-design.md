@@ -114,6 +114,11 @@ _Include and describe your final solution here. It's also a good idea to summari
 
 [📊 Click here to view the interactive visualization](https://datawrapper.dwcdn.net/aSJGo/1/)
 
+Re-design version - Ranked World's Top 5 Countries on Military Spending during 2017-2021
+![Ranked World's Top 5 Countries on Military Spending during 2017-2021, re-design ver.](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/blob/7628d2245f6ab891f993de57cabf15ddb78569d0/anked-top-five-countries-worldwide-on-military-spending.png)
+
+
+(https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/blob/7628d2245f6ab891f993de57cabf15ddb78569d0/anked-top-five-countries-worldwide-on-military-spending.png)
 ## References
 _List any references you used here._
 
