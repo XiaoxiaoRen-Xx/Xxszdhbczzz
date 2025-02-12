@@ -78,27 +78,13 @@ _Don't identify or share personally identifiable information (PII) about the peo
 - student, MEIM, late 20's
 - student, MAM, early 20's
 
-| Question | Interview 1 | Interview 2 | 
-|----------|-------------|-------------|
-|    Can you tell me what you think this is?      |             |             |
-|    Is there anything you find surprising or confusing?      |             |             |
-|          |             |             |
-|          |             |             |
-|          |             |             |
-|          |             |             |
 
-
-| Question | Interview 1 | Interview 2 | Interview 3 |
+| ####Question#### | ####Interview 1#### | ####Interview 2#### | ####Interview 3#### |
 |---|---|---|---|
 | Can you tell me what you think this is?  | I can tell it's the world's top 5 countries in military spending from 2017-2021. | Same.  | Yeah, the topic and story are quite straightforward and obvious to me.  |
 | Is there anything you find surprising or confusing?  | The overall structure is good, but I can tell there were no very dramatic and significant changes these years, so I will be thinking you can just put the data for only one year. | I actually hold a different opinion because the data over the past five years clearly shows a trend, which helps the audience understand the pattern. | Yeah, it really depends on what kind of story you want to tell, so of course the split bars and line charts both work for me and I will probably not prefer just only look at the data for only one year.  |
 | Who do you think is the intended audience for this?  | For the military enthusiast? Like my dad? haha   | Yeah, same.  | Yes, the first one that comes into my mind is military fans.  |
 | I'm a bit worried that after my redesign, the chart might become somewhat dull. The original data visualization is actually quite engaging and interesting. *I haven't shown them the original design.*  | No! Don't worry about it at all cuz as long as you tell the information and the story you want to tell, then it's 100% fine! I don't want to look at a "good-looking" chart and gain nothing useful info from that. | Yes! 100% agree!  | Same!  |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
 
 
 Synthesis: 
