@@ -85,6 +85,7 @@ Line chart version - Ranked World's Top 5 Countries on Military Spending during 
 | Is there anything you would change or do differently?  | Not that much because I already see the two different options you made for the redesign and I think both of them work! It really depends on what story you want to tell and then choose the right one. | Yes, but I still want to call back to my first thought that maybe you can just put the data for 2017 and 2021 or just one year is also fine because for me the changes are not that unexpected. But I also can get the thought of you want to show the trend so great job still! | Same! My only concern is for the countries For countries with very similar data, their lines overlapping and getting tangled together might be something I need to think through more carefully. You might want to reconsider or try a different way to present it. |
 | Is there anything else that might want to be added? I'm welcome to every comment!  | And actually I have another idea—what if we compare the percentage of each country's military spending relative to its annual budget? I think that would also be a great point to consider but I do not know the original data so I just saying this perspective can be also fun to look at. | Oh good catch! But it might need more data.  | Yeah, so true.  |
 
+
 **Synthesis**
 
 - Some people think the five-year data doesn’t change much, so keeping just one year would be clearer; others believe the trend matters, it all really depends on the story you want to tell. 
@@ -95,6 +96,7 @@ Line chart version - Ranked World's Top 5 Countries on Military Spending during 
 
 
 ## 💡STEP FIVE: build the solution
+
 
 **My Final Thoughts and Key Improvements:**
 
@@ -109,6 +111,7 @@ Line chart version - Ranked World's Top 5 Countries on Military Spending during 
 
 - More Meaningful Insights
   Unlike the original, which only showed data for 2021, my version highlights trends over time (2017-2021), helping viewers see which countries have ramped up or maintained their spending.
+
 
 **My Redesign**
 
