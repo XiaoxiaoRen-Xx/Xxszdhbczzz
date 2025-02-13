@@ -13,19 +13,19 @@ The data visualization I chose comes from Visual Capitalist, which shows the top
 
 ![Visual Capitalist - Top 10 Countries by Military Spending (2021)](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/d92d365ca457b3c5451511dc8f5d7717b4485ab0/IMG_2540.jpg)
 
-What initially attracted me to this visualization was its outstanding visual design. It uses an army green tone with a toy soldier pattern, which not only reminds people of the military theme at a glance, but is also very visually appealing. Even without looking at the title, the audience can quickly understand the message of this chart through these elements - it is related to the military. I have to admit that from a Visual Storytelling point of view, the design is a success.
+What initially attracted me to this visualization was its outstanding visual design. It uses an army green tone with a toy soldier pattern, which not only reminds people of the military theme at a glance, but is also very visually appealing. Even without looking at the title, the audience can quickly understand the message of this chart through these elements - it is related to the military. I have to admit that from a visual point of view, the design is a success.
 However, when I took a closer look at this visualization, I found some obvious problems. These questions made me realize that while the chart does a good job of engaging viewers, it still has a lot of room for improvement in the clarity and accuracy of its messaging. And these deficiencies are exactly what I want to optimize through redesign. I will explain in detail the problems I have found and what I can do to improve them.
 
 ## 🧐STEP TWO: the critique
 
 ### Why Did I Choose This Visualization?  
 
-I picked this chart because it’s visually striking and instantly screams military spending with its green tones and toy soldier elements. It’s engaging, but that strong aesthetic comes at a cost—readability takes a hit.  
+I picked this chart because it’s visually striking and instantly relates to military spending with its green tones and toy soldier elements. It’s engaging, but that strong aesthetic comes at a cost—readability takes a hit.  
 
 ### What’s Not Working?  
 
 - **Hard to compare numbers**  
-  The irregular pie chart shapes make it tricky to compare spending across countries. Japan, South Korea, and Germany have similar budgets, but their section sizes feel off, which could mislead viewers.  
+  The irregular pie chart shapes make it tricky to compare spending across countries. Japan, South Korea, and Germany have similar budgets, but their section sizes are super alike, which could mislead viewers.  
 
 - **Ranking gets lost due to design**  
   The chart does rank military spending from highest to lowest, but the numbers are small and easy to miss. A good visualization should make hierarchy obvious—this one doesn’t.  
@@ -86,8 +86,6 @@ Line chart version - Ranked World's Top 5 Countries on Military Spending during 
 | Is there anything else that might want to be added? I'm welcome to every comment!  | And actually I have another idea—what if we compare the percentage of each country's military spending relative to its annual budget? I think that would also be a great point to consider but I do not know the original data so I just saying this perspective can be also fun to look at. | Oh good catch! But it might need more data.  | Yeah, so true.  |
 
 **Synthesis**
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 - Some people think the five-year data doesn’t change much, so keeping just one year would be clearer; others believe the trend matters, it all really depends on the story you want to tell. 
 - Don’t worry about the chart being too simple that everyone agrees that clarity is the big key! No one wants a flashy chart with no real insights.  
