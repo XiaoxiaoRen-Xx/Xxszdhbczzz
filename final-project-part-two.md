@@ -70,6 +70,7 @@ Text here!
 |   Identify key motivations and concerns.   |        What are your biggest concerns when it comes to weight loss? Follow-up: What do you most want to know? (e.g., "How long will it take?" "What should I eat?"         |
 |   Assess trust in online weight loss information.   |        Do you think the weight loss information you come across is accurate? Why or why not?          |
 |   Rate the awareness of nutrition tracking and interest in visual guidance.   |        Do you think it’s important to track daily macronutrient intake (carbs, protein, fat)? Have you ever calculated it?          |
+|   Determine if a simple table or chart would improve their understanding.   |         Would you find it helpful to see a simple table or chart explaining your daily nutritional needs?          |
 |   Assess interest in interactive or tailored recommendations.   |        Would you be interested in using a chart to check a personalized weight loss plan for your body situation? Why or why not?          |
 |   Gather open-ended feedback   |        Do you have any suggestions for improving this project?          |
 
