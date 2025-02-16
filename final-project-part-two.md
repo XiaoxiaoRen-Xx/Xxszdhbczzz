@@ -10,7 +10,23 @@ Text here!
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+### Target Audience & User Research Plan
+
+**a. The Target Audience I Hope to Reach out**
+
+My target audience consists of individuals with very little knowledge of scientific weight loss and fitness. Their understanding of weight loss primarily comes from social media, short videos, and online articles. 
+
+Typically, they:
+- Seek rapid weight loss results (hoping to see significant weight changes in a short time)
+- Focus on losing weight rather than fat (without considering the impact on health and sustainability)
+- Rely on mixed and often misleading information (e.g., "cutting all carbs is the only way to lose weight," "eating only fruits will help you slim down")
+- Lack of scientific guidance (do not understand concepts like calorie balance, basal metabolic rate, or nutrient distribution)
+
+Most common categories
+- College students or young professionals who aim to lose weight quickly due to social or self-image concerns
+- People who have tried multiple weight loss methods but failed to see sustainable results
+- Individuals influenced by social media trends who are open to science-based insights but may struggle to differentiate between reliable and misleading information
+
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
