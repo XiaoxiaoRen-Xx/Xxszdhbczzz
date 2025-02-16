@@ -34,13 +34,14 @@ Most common categories
 
 ## Interview script
 
-💬 Interview Introduction:
+**💬 Interview Introduction:**
+
 Hi! Thank you for participating in this interview.
 I am currently researching how to use data visualization to help people better understand healthy and effective weight loss.
 Your experiences and feedback will help me refine my visualizations to make them easier to understand and more useful.
 The interview will take approximately 10-15 minutes. Your responses will remain anonymous, and you may skip any questions you don’t want to answer.
 
-💡 Interview Questions:
+**💡 Interview Questions:**
 
 | Goal | Questions to Ask |
 |------|------------------|
