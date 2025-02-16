@@ -41,28 +41,6 @@ Your experiences and feedback will help me refine my visualizations to make them
 The interview will take approximately 10-15 minutes. Your responses will remain anonymous, and you may skip any questions you don’t want to answer.
 
 💡 Interview Questions:
-1. What weight loss methods have you tried before?
-
-(If applicable) Where did you learn about these methods? (Social media? Friends? Other sources?)
-2. What are your biggest concerns when it comes to weight loss?
-
-(e.g., "How long will it take to see results?" "How many calories should I eat?" "Will eating [certain food] make me gain weight?")
-3. Do you think the weight loss information you come across is accurate? Why or why not?
-
-(e.g., "I feel like different sources contradict each other," or "I’m not sure which advice to trust.")
-4. Do you think it’s important to track daily macronutrient intake (carbs, protein, fat)? Have you ever calculated it?
-
-(If not) Would you find it helpful to see a simple table or chart explaining your daily nutritional needs?
-5. Here are some sample data visualizations—could you take a quick look and tell me if they are easy to understand?
-
-(Show draft visualizations, such as a calorie intake vs. weight loss trend chart or a recommended daily nutrition breakdown.)
-6. Do these charts make sense to you? Are there any confusing parts?
-
-7. Would you be interested in using a tool like this to create a personalized weight loss plan? Why or why not?
-
-8. Do you have any suggestions for improving this project?
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
