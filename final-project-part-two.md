@@ -7,6 +7,13 @@ Text here!
 
 # User research 
 
+放出完全可以看出来多少的肉的体积 蔬菜提及等等 因为很多人对于多少卡路里完全不知道是吃多少
+网上夸张的post会误导人
+没有那么多时间去运动每一天
+可以标出来
+
+
+
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
