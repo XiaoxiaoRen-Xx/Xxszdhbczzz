@@ -108,6 +108,19 @@ This project explores the challenges of weight loss and misinformation in the fi
 |      |                  |
 |      |                  |
 
+**Interview Answers and Findings**
+> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+
+| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+|-------------------------|--------------------------------|-------------|-------------|
+|      What do you think is the main message of this project?                   |       That quick and toxic diet don’t last. I used to believe in extreme diets, but your charts changed my view.      |      Extreme diets don’t work, and most people regain weight. You do a great job proving it with data.      |     Yes, the message is strong enough.        |
+|           Did any part of the story feel particularly engaging or confusing              |     Maybe a title slide before each part would make it stand out more.        |     Loved the part about diet myths. But a smoother transition between sections would help the flow.       |        The visual breakdown of diet failures was eye-opening. I just wasn’t sure how one part led to the next     |
+|       Have you encountered misleading weight loss advice before? Did this project challenge or reinforce your views?                  |  All the time! I once followed a ‘no carbs’ rule just because I saw it on a post.           |      Meal replacement shakes or enegry bar.      |      Cucumber and coffee theory, I really saw this one time.       |
+|          Did the charts and graphs help you understand the key points               |      Yes, they made the message clearer. Maybe just add a short lead-in before each chart.       |      They’re great! But one or two felt sudden—if there were short explanations between them, it’d be perfect.      |       I’d just love a quick sentence explaining why it’s important.       |
+|          Was there any data visualization that felt unclear or unnecessary?               |      None were unclear so far, but some could use a little more introduction or details.       |      I believe the charts in the later part are the big challenges for you but you're on the right track.      |     Yes, I can foresee the chart to show personalized information will be challenging.        |
+|            If you could change one thing, what would it be?             |       More section dividers—title slides would make it flow better      |      Pay more attention on storytelling and make it logical!      |      Maybe a quick recap at the end of each section, like ‘Key Takeaways’       |
+
+
 
 
 
