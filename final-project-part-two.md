@@ -70,9 +70,14 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| What weight loss methods have you tried before? Follow-up: Where did you learn about these methods? (Social media? Friends? Other sources?)  |      Eat less! I mean less sugar, cake and fried chicken.       |      Excercise and diet (not toxic)       |      Diet for sure, I don't like sweating and exercise.       |
+|           Where did you learn about these methods?              |       Well, it's like common sense to eat less and do exercise more.        |      Social media told me to do so, and those people really just eat a cucumber and a cup of coffee I literally can't not.       |       Yeah, I don't know where I learned that but I just knew it since I was a teenager.      |
+|            What are your biggest concerns when it comes to weight loss?              |               The time! This takes to see results is very important to me. I really care about whether my efforts yield feedback. However, I usually can't persist long enough to see the results.                 |      Time, but I'm talking about the time for doing exercise.        |      I'm honestly someone with zero patience and no perseverance—I just can't stick with things.       |
+|         Do you think the weight loss information you come across is accurate? Why or why not?                |           I haven’t been paying much attention lately—just too exhausted. Losing weight isn’t on my mind right now.                     |      Yeah same       |      Well, I used to believe the information I saw was well-founded. But with more and more content relying on over-the-top exaggeration just to grab attention, I’m starting to question everything.       |
+|           Would you find it helpful to see a simple table or chart explaining your daily nutritional needs?              |       Oh yeah sure. My only problem is that when I see "100g of beef," I have no idea how much that actually is. It’s way too abstract for me, and giving me measurements like that just kills my motivation.                          |      Yeah exactly the same thought. If they could provide real-life examples, like "about the size of a fist" or "the size of your palm," it would make things so much easier—especially for people like me who have zero experience and don’t want the hassle of buying a scale.       |      Can't agree more.       |
+|           Would you be interested in using a chart to check a personalized weight loss plan for your body situation? Why or why not?              |               Why not?!                 |      Yes! please make it easy to look at!       |      Agree!       |
+|           Do you have any suggestions for improving this project?              |              I think you're on the right track! Just tell your story in a logical way and tell whatever you want to convey.                  |      Yes! I think this will be super great project!       |      Yes!       |
+
 
 
 # Identified changes for Part III
