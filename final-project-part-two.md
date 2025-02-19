@@ -8,14 +8,16 @@ Text here!
 # User research 
 
 
-## Target audience
+## Target audience 
+Here I conducted two different interviews, the first one was to better understand my original target audience and, therefore better decide my storytelling flow and method on the draft; the second one was open to people who go through my first version draft.
+
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-### Target Audience & User Research Plan
+### 💪Original Group - Target Audience & User Research Plan💪
 
-**a. The Target Audience I Hope to Reach out**
+**a. The Original Target Audience I Hope to Reach Out**
 
-My target audience consists of individuals with very little knowledge of scientific weight loss and fitness. Their understanding of weight loss primarily comes from social media, short videos, and online articles. 
+My projet target audience consists of individuals with very little knowledge of scientific weight loss and fitness. Their understanding of weight loss primarily comes from social media, short videos, and online articles. 
 
 Typically, they:
 - Seek rapid weight loss results (hoping to see significant weight changes in a short time)
@@ -33,7 +35,7 @@ Most common categories
 - Social media & online communities: Find individuals who have previous posts or often follow the loss weight trend on platforms like Instagram, TikTok, or WhatsApp.
 - Friends, classmates, and neighbors: Reach out to people I know who are considering weight loss.
 
-## Interview script
+### Interview script
 
 **💬 Interview Introduction:**
 
@@ -55,12 +57,8 @@ The interview will take approximately 10-15 minutes. Your responses will remain 
 |   Gather open-ended feedback   |        Do you have any suggestions for improving this project?          |
 
 
-Text here!
-
-## Interview findings
+**Interview Answers and Findings**
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -71,6 +69,45 @@ Text here!
 |           Would you find it helpful to see a simple table or chart explaining your daily nutritional needs?              |       Oh yeah sure. My only problem is that when I see "100g of beef," I have no idea how much that actually is. It’s way too abstract for me, and giving me measurements like that just kills my motivation.                          |      Yeah exactly the same thought. If they could provide real-life examples, like "about the size of a fist" or "the size of your palm," it would make things so much easier—especially for people like me who have zero experience and don’t want the hassle of buying a scale.       |      Can't agree more.       |
 |           Would you be interested in using a chart to check a personalized weight loss plan for your body situation? Why or why not?              |               Why not?!                 |      Yes! please make it easy to look at!       |      Agree!       |
 |           Do you have any suggestions for improving this project?              |              I think you're on the right track! Just tell your story in a logical way and tell whatever you want to convey.                  |      Yes! I think this will be super great project!       |      Yes!       |
+
+**Findings so far:**
+
+
+
+### 🤔Critique Group - Target Audience & User Research Plan🤔
+
+**c. The Target Audience I Hope I Can Get Feedback and Critique**
+
+The ideal audience for feedback consists of individuals who are interested in weight loss but may have misconceptions about dieting. 
+These participants can reflect the people who might come across this project in real life.
+
+Ideally and typically they are:
+– People who are new to dieting or struggle to navigate conflicting information.
+– Those who have experience with weight loss but may have encountered Yo-Yo dieting, misinformation, or unsustainable methods.
+- People who have been exposed to online viral weight loss trends may have followed misleading advice.
+- People who have experience in data visualization and storytelling.
+- General audience, not just fitness professionals.
+
+### Interview script
+
+**💬 Interview Introduction:**
+
+Thank you for participating! 
+This project explores the challenges of weight loss and misinformation in the fitness industry. I’ll show you my Shorthand draft and ask for your thoughts. Please be honest—your feedback will help me improve clarity and effectiveness.
+
+**💡 Interview Questions:**
+
+| Goal | Questions to Ask |
+|------|------------------|
+|  Ensure the key takeaway is clear.    |      What do you think is the main message of this project?            |
+|   Identify strengths and areas needing improvement.   |      Did any part of the story feel particularly engaging or confusing?           |
+|   Assess if the project effectively addresses weight loss myths.  |      Have you encountered misleading weight loss advice before? Did this project challenge or reinforce your views?            |
+|   Determine if visuals enhance comprehension.   |      Did the charts and graphs help you understand the key points? Why or why not?           |
+|   Identify which charts need improvement.   |      Was there any data visualization that felt unclear or unnecessary?           |
+|   Get actionable improvement suggestions.   |       If you could change one thing about this project, what would it be?           |
+|      |                  |
+|      |                  |
+
 
 
 
