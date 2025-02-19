@@ -105,8 +105,7 @@ This project explores the challenges of weight loss and misinformation in the fi
 |   Determine if visuals enhance comprehension.   |      Did the charts and graphs help you understand the key points? Why or why not?           |
 |   Identify which charts need improvement.   |      Was there any data visualization that felt unclear or unnecessary?           |
 |   Get actionable improvement suggestions.   |       If you could change one thing about this project, what would it be?           |
-|      |                  |
-|      |                  |
+
 
 **Interview Answers and Findings**
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -119,7 +118,6 @@ This project explores the challenges of weight loss and misinformation in the fi
 |          Did the charts and graphs help you understand the key points               |      Yes, they made the message clearer. Maybe just add a short lead-in before each chart.       |      They’re great! But one or two felt sudden—if there were short explanations between them, it’d be perfect.      |       I’d just love a quick sentence explaining why it’s important.       |
 |          Was there any data visualization that felt unclear or unnecessary?               |      None were unclear so far, but some could use a little more introduction or details.       |      I believe the charts in the later part are the big challenges for you but you're on the right track.      |     Yes, I can foresee the chart to show personalized information will be challenging.        |
 |            If you could change one thing, what would it be?             |       More section dividers—title slides would make it flow better      |      Pay more attention on storytelling and make it logical!      |      Maybe a quick recap at the end of each section, like ‘Key Takeaways’       |
-
 
 
 
