@@ -39,8 +39,14 @@ Most common categories
 - Social media & online communities: Find individuals who have previous posts or often follow the loss weight trend on platforms like Instagram, TikTok, or WhatsApp.
 - Friends, classmates, and neighbors: Reach out to people I know who are considering weight loss.
 
+#### Interviewers:
 
-### Interview script
+student, early 20's
+student, late 20's
+student, early 20's
+student, early 20's
+
+#### Interview script
 
 **💬 Interview Introduction:**
 
@@ -103,8 +109,14 @@ Ideally and typically they are:
 - People who have experience in data visualization and storytelling.
 - General audience, not just fitness professionals.
 
+#### Interviewers:
 
-### Interview script
+student, early 20's
+student, late 20's
+student, early 20's
+student, early 20's
+
+#### Interview script
 
 **💬 Interview Introduction:**
 
