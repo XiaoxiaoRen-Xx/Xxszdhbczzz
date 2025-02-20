@@ -8,9 +8,7 @@ I have finished most of my data visualizations and the whole outline for my stor
 I kept a few sections after my original work just in case I want to use them later, hope it won't interrupt!
 
 
-**🔗My Shorthand Preview Link:**
-🔗 [Xiaoxiao's Shorthand Preview](https://preview.shorthand.com/31MkjZW51yN0BmZC/responsive/desktop)
-https://preview.shorthand.com/31MkjZW51yN0BmZC/responsive/desktop
+**🔗My Shorthand Preview Link:** [Xiaoxiao's Shorthand Preview](https://preview.shorthand.com/31MkjZW51yN0BmZC/responsive/desktop)
 
 
 
