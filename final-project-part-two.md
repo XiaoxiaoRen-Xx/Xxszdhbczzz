@@ -3,6 +3,7 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
+My Shorthand Preview Linke:
 https://preview.shorthand.com/31MkjZW51yN0BmZC/responsive/desktop
 
 
@@ -180,5 +181,10 @@ Text here!
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+- I still had ChatGPT help me refine and reorganize my language, especially when drafting my interview script. I realized that my questions were not productive or entirely accurate, so I sought help to make them more direct and concise.
+
+- When selecting my two target audiences, I noticed that my thinking was somewhat rigid. ChatGPT helped me explore more options, such as expanding to *people who have been exposed to online viral weight loss trends* and the *general audience*.
+
+- For the shorthand structure, when I got stuck on how to connect my storytelling smoothly, I asked ChatGPT for guidance on transitions and to check whether my logic was coherent.
 
