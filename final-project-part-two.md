@@ -41,10 +41,10 @@ Most common categories
 
 #### Interviewers:
 
-student, early 20's
-student, late 20's
-student, early 20's
-student, early 20's
+- student, early 20's
+- student, late 20's
+- student, early 20's
+- student, early 20's
 
 #### Interview script
 
@@ -103,25 +103,25 @@ The ideal audience for feedback consists of individuals who are interested in we
 These participants can reflect the people who might come across this project in real life.
 
 Ideally and typically they are:
-– People who are new to dieting or struggle to navigate conflicting information.
-– Those who have experience with weight loss but may have encountered Yo-Yo dieting, misinformation, or unsustainable methods.
-- People who have been exposed to online viral weight loss trends may have followed misleading advice.
+– People who are new to dieting or struggle to gain useful and applicable information.
+– Those who have experience with weight loss but may have encountered misinformation, or wrong methods.
+- People who have been exposed to online viral weight loss trends.
 - People who have experience in data visualization and storytelling.
 - General audience, not just fitness professionals.
 
 #### Interviewers:
 
-student, early 20's
-student, late 20's
-student, early 20's
-student, early 20's
+- student, early 20's
+- student, late 20's
+- student, early 20's
+- student, early 20's
 
 #### Interview script
 
 **💬 Interview Introduction:**
 
 Thank you for participating! 
-This project explores the challenges of weight loss and misinformation in the fitness industry. I’ll show you my Shorthand draft and ask for your thoughts. Please be honest—your feedback will help me improve clarity and effectiveness.
+This project explores the challenges of weight loss and misinformation during the loss weight process. I’ll show you my Shorthand draft and ask for your thoughts. Please be honest—your feedback will help me improve clarity and effectiveness.
 
 **💡 Interview Questions:**
 
@@ -157,7 +157,7 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Participants want a clearer structure with section dividers. | Describe what, if any changes you anticipate making to address the observation. |Add title slides before major sections to improve storytelling flow.
+| Participants want a clearer structure with section dividers. |Add title slides before major sections to improve storytelling flow.
 | Transitions between sections need to be smoother and more logical.                                         |      Add brief transition sentences to connect different parts more clearly.                                                                           |
 |  Data visualizations are effective but some of them need context or change the chart type.                                       |     Think more about how to interpret data accurately and effectively. Insert one-liner explanations before each chart to provide context.                                                                            |
 |          The later charts may be challenging to interpret.                                |   Pay extra attention to simplifying complex charts and ensuring readability.                                                                              |
