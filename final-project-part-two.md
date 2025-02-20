@@ -7,17 +7,21 @@ Text here!
 
 # User research 
 
+**⚠️❗️IMPORTANT INFORMATION**
+
+
+I conducted **TWO** rounds of interviews for this project. 
+The first round focused on understanding my original target audience, allowing me to refine my storytelling approach and structure before creating the draft. -- I did it during the Monday class with my critique group.
+The second round gathered feedback from individuals who reviewed my initial draft, helping me evaluate its clarity and effectiveness. -- I did it with my friends.
 
 ## Target audience 
-Here I conducted two different interviews, the first one was to better understand my original target audience and, therefore better decide my storytelling flow and method on the draft; the second one was open to people who go through my first version draft.
 
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
 ### 💪Original Group - Target Audience & User Research Plan💪
 
-**a. The Original Target Audience I Hope to Reach Out**
+**The Original Target Audience I Hope to Reach Out**
 
-My projet target audience consists of individuals with very little knowledge of scientific weight loss and fitness. Their understanding of weight loss primarily comes from social media, short videos, and online articles. 
+My project target audience consists of individuals with very little knowledge of scientific weight loss and fitness. Their understanding of weight loss primarily comes from social media, short videos, and online articles. 
 
 Typically, they:
 - Seek rapid weight loss results (hoping to see significant weight changes in a short time)
@@ -30,10 +34,11 @@ Most common categories
 - People who have tried multiple weight loss methods but failed to see sustainable results
 - Individuals influenced by social media trends who are open to science-based insights but may struggle to differentiate between reliable and misleading information
 
-**b. My Approach to Identifying Representative Individuals to Interview**
+**My Approach to Identifying Representative Individuals to Interview**
 
 - Social media & online communities: Find individuals who have previous posts or often follow the loss weight trend on platforms like Instagram, TikTok, or WhatsApp.
 - Friends, classmates, and neighbors: Reach out to people I know who are considering weight loss.
+
 
 ### Interview script
 
@@ -43,6 +48,7 @@ Hi! Thank you for participating in this interview.
 I am currently researching how to use data visualization to help people better understand healthy and effective weight loss.
 Your experiences and feedback will help me refine my visualizations to make them easier to understand and more useful.
 The interview will take approximately 10-15 minutes. Your responses will remain anonymous, and you may skip any questions you don’t want to answer.
+
 
 **💡 Interview Questions:**
 
@@ -60,7 +66,7 @@ The interview will take approximately 10-15 minutes. Your responses will remain 
 **Interview Answers and Findings**
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1  | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | What weight loss methods have you tried before? Follow-up: Where did you learn about these methods? (Social media? Friends? Other sources?)  |      Eat less! I mean less sugar, cake and fried chicken.       |      Excercise and diet (not toxic)       |      Diet for sure, I don't like sweating and exercise.       |
 |           Where did you learn about these methods?              |       Well, it's like common sense to eat less and do exercise more.        |      Social media told me to do so, and those people really just eat a cucumber and a cup of coffee I literally can't not.       |       Yeah, I don't know where I learned that but I just knew it since I was a teenager.      |
@@ -72,11 +78,20 @@ The interview will take approximately 10-15 minutes. Your responses will remain 
 
 **Findings so far:**
 
+1️⃣ Most people rely on dieting over exercise and learn weight loss methods from social media, though many now question its reliability.
+
+2️⃣ There are many concerns—whether it’s the time required to see results or the time needed for exercise. Lack of patience makes consistency difficult.
+
+3️⃣ Abstract food measurements (e.g., "100g of beef") are confusing—participants prefer real-life size references like "fist-sized" portions.
+
+4️⃣ A simple, visual chart for daily nutrition and a personalized weight loss plan would be very helpful, but it should be easy to read and visually engaging.
+
+5️⃣ Keep the storytelling logical and structured.
 
 
 ### 🤔Critique Group - Target Audience & User Research Plan🤔
 
-**c. The Target Audience I Hope I Can Get Feedback and Critique**
+**The Target Audience I Hope I Can Get Feedback and Critique**
 
 The ideal audience for feedback consists of individuals who are interested in weight loss but may have misconceptions about dieting. 
 These participants can reflect the people who might come across this project in real life.
@@ -87,6 +102,7 @@ Ideally and typically they are:
 - People who have been exposed to online viral weight loss trends may have followed misleading advice.
 - People who have experience in data visualization and storytelling.
 - General audience, not just fitness professionals.
+
 
 ### Interview script
 
@@ -101,7 +117,7 @@ This project explores the challenges of weight loss and misinformation in the fi
 |------|------------------|
 |  Ensure the key takeaway is clear.    |      What do you think is the main message of this project?            |
 |   Identify strengths and areas needing improvement.   |      Did any part of the story feel particularly engaging or confusing?           |
-|   Assess if the project effectively addresses weight loss myths.  |      Have you encountered misleading weight loss advice before? Did this project challenge or reinforce your views?            |
+|  Tesr if the project effectively addresses thoughts.  |      Have you encountered misleading weight loss advice before? Did this project challenge or reinforce your views?            |
 |   Determine if visuals enhance comprehension.   |      Did the charts and graphs help you understand the key points? Why or why not?           |
 |   Identify which charts need improvement.   |      Was there any data visualization that felt unclear or unnecessary?           |
 |   Get actionable improvement suggestions.   |       If you could change one thing about this project, what would it be?           |
@@ -110,13 +126,13 @@ This project explores the challenges of weight loss and misinformation in the fi
 **Interview Answers and Findings**
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-|      What do you think is the main message of this project?                   |       That quick and toxic diet don’t last. I used to believe in extreme diets, but your charts changed my view.      |      Extreme diets don’t work, and most people regain weight. You do a great job proving it with data.      |     Yes, the message is strong enough.        |
+|      What do you think is the main message of this project?                   |       That quick and toxic diet doesn’t last. I used to believe in extreme diets, but your charts changed my view.      |      Extreme diets don’t work, and most people regain weight. You do a great job proving it with data.      |     Yes, the message is strong enough.        |
 |           Did any part of the story feel particularly engaging or confusing              |     Maybe a title slide before each part would make it stand out more.        |     Loved the part about diet myths. But a smoother transition between sections would help the flow.       |        The visual breakdown of diet failures was eye-opening. I just wasn’t sure how one part led to the next     |
-|       Have you encountered misleading weight loss advice before? Did this project challenge or reinforce your views?                  |  All the time! I once followed a ‘no carbs’ rule just because I saw it on a post.           |      Meal replacement shakes or enegry bar.      |      Cucumber and coffee theory, I really saw this one time.       |
+|       Have you encountered misleading weight loss advice before? Did this project challenge or reinforce your views?                  |  All the time! I once followed a ‘no carbs’ rule just because I saw it on a post.           |      Meal replacement shakes or energy bars.      |      Cucumber and coffee theory, I really saw this one time.       |
 |          Did the charts and graphs help you understand the key points               |      Yes, they made the message clearer. Maybe just add a short lead-in before each chart.       |      They’re great! But one or two felt sudden—if there were short explanations between them, it’d be perfect.      |       I’d just love a quick sentence explaining why it’s important.       |
-|          Was there any data visualization that felt unclear or unnecessary?               |      None were unclear so far, but some could use a little more introduction or details.       |      I believe the charts in the later part are the big challenges for you but you're on the right track.      |     Yes, I can foresee the chart to show personalized information will be challenging.        |
+|          Was there any data visualization that felt unclear or unnecessary?               |      Most of them are clear for me so far, but some could use a little more introduction or details. Especially for one page, the data may change the layout or type to make it more clear.       |      I believe the charts in the later part are the big challenges for you but you're on the right track.      |     Yes, I can foresee the chart to show personalized information will be challenging.        |
 |            If you could change one thing, what would it be?             |       More section dividers—title slides would make it flow better      |      Pay more attention on storytelling and make it logical!      |      Maybe a quick recap at the end of each section, like ‘Key Takeaways’       |
 
 
@@ -129,18 +145,18 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Participants want a clearer structure with section dividers. | Describe what, if any changes you anticipate making to address the observation. |Add title slides before major sections to improve storytelling flow.
+| Transitions between sections need to be smoother and more logical.                                         |      Add brief transition sentences to connect different parts more clearly.                                                                           |
+|  Data visualizations are effective but some of them need context or change the chart type.                                       |     Think more about how to interpret data accurately and effectively. Insert one-liner explanations before each chart to provide context.                                                                            |
+|          The later charts may be challenging to interpret.                                |   Pay extra attention to simplifying complex charts and ensuring readability.                                                                              |
+|     Participants suggest a "Key Takeaways" section.       |              Add a recap section at the end of each part for better information retention.                                                                   |
+|            |                                                                                 |
 
-> ...include any final thoughts you have here. 
 
-Text here!
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
+
 
 Text here!
 
