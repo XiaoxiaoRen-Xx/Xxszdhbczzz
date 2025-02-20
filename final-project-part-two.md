@@ -3,7 +3,10 @@
 # Wireframes / storyboards
 
 **I did my storyboard on Shorthand directly.**
-**I have finished most of my data visualizations and the whole outline for my story you can click the link below to check my project preview!**
+
+I have finished most of my data visualizations and the whole outline for my story you can click the link below to check my project preview!
+I kept a few sections after my original work just in case I want to use them later, hope it won't interrupt!
+
 
 **🔗My Shorthand Preview Link:**
 https://preview.shorthand.com/31MkjZW51yN0BmZC/responsive/desktop
@@ -31,18 +34,18 @@ My project target audience consists of individuals with very little knowledge of
 Typically, they:
 - Seek rapid weight loss results (hoping to see significant weight changes in a short time)
 - Focus on losing weight rather than fat (without considering the impact on health and sustainability)
-- Rely on mixed and often misleading information (e.g., "cutting all carbs is the only way to lose weight," "eating only fruits will help you slim down")
-- Lack of scientific guidance (do not understand concepts like calorie balance, basal metabolic rate, or nutrient distribution)
+- Rely on mixed and often misleading information (e.g., "cutting all carbs is the only way to lose weight," "eating only cucumber will help you slim down")
+- Lack of scientific guidance (do not understand concepts like input balance)
 
 Most common categories
-- College students or young professionals who aim to lose weight quickly due to social or self-image concerns
+- College students or professionals who aim to lose weight quickly due to social or self-image concerns
 - People who have tried multiple weight loss methods but failed to see sustainable results
 - Individuals influenced by social media trends who are open to science-based insights but may struggle to differentiate between reliable and misleading information
 
 **My Approach to Identifying Representative Individuals to Interview**
 
 - Social media & online communities: Find individuals who have previous posts or often follow the loss weight trend on platforms like Instagram, TikTok, or WhatsApp.
-- Friends, classmates, and neighbors: Reach out to people I know who are considering weight loss.
+- Friends, family, classmates, and neighbors: Reach out to people I know who are considering weight loss.
 
 #### Interviewers:
 
@@ -183,7 +186,7 @@ _List any references you used here._
 
 - I still had ChatGPT help me refine and reorganize my language, especially when drafting my interview script. I realized that my questions were not productive or entirely accurate, so I sought help to make them more direct and concise.
 
-- When selecting my two target audiences, I noticed that my thinking was somewhat rigid. ChatGPT helped me explore more options, such as expanding to *people who have been exposed to online viral weight loss trends* and the *general audience*.
+- When selecting my two target audiences, I noticed that my thinking was somewhat rigid. ChatGPT helped me explore more options, such as expanding to *people who have been exposed to online viral weight loss trends* and the *general audience*, also *Focus on losing weight rather than fat (without considering the impact on health and sustainability)* also inspired by AI
 
 - For the shorthand structure, when I got stuck on how to connect my storytelling smoothly, I asked ChatGPT for guidance on transitions and to check whether my logic was coherent.
 
