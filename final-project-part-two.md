@@ -9,6 +9,7 @@ I kept a few sections after my original work just in case I want to use them lat
 
 
 **🔗My Shorthand Preview Link:**
+🔗 [Xiaoxiao's Shorthand Preview](https://preview.shorthand.com/31MkjZW51yN0BmZC/responsive/desktop)
 https://preview.shorthand.com/31MkjZW51yN0BmZC/responsive/desktop
 
 
