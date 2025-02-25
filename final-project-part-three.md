@@ -32,20 +32,41 @@ To improve accessibility, I avoided technical jargon, and used engaging visuals 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
+**Balancing data and storytelling for better engagement**
+Instead of just listing facts, I structured the content as a journey. It starts with common weight loss myths, explains why extreme dieting fails, and then provides abetter, science-backed solution. This approach makes the information more engaging and easier to follow. Making it feel more like a story rather than just a report.
+
+**Clear and impactful data visualization**
+To make key statistics stand out, I used simple, eye-catching visuals. For example, the 95% diet failure rate is shown with a donut chart, making it instantly clear how small the success area and the common the issue is.  
+**Turning information into action**
+Rather than just providing a table, I included step-by-step instructions and a calculation example. This makes it easy for readers to apply the information and find their recommended intake without confusion and time wasting. Additionally, I emphasized this is just for a basic guide, since this is aim to convey the thought on "stop starving yourself to loss weight". For better individual customization, I encouraged readers to adjust their intake based on their needs.
+
+**Simplifying science**  
+Scientific explanations can be overwhelming, so I translated research into simple takeaways. I also used everyday comparisons, like “100g of beef is about the weight of a smartphone” to help readers visualize portion sizes effortlessly.  
+
+**Creating a personal connection**  
+To make the project feel relatable, I included real-life experiences, personas and common struggles people face with dieting. This reassures readers that they’re not alone and helps build trust in the information.  
+
+**The Final Message**  
+With these improvements, the project is now clearer, more engaging, and easier to follow and use. The main takeaway is simple: You don’t have to starve to lose weight—eating right is the key!
 
 
 
 ## References
 > **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
 
-## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
+🔗 [Xiaoxiao's Final Project_Shorthand](https://carnegiemellon.shorthandstories.com/telling-stroy-with-data_final-project_xiaoxiaonren/index.html)
 
-Text here!
+
+## AI acknowledgements
+No, I didn't use AI for this part. I'm really happy for what I had come up and finished. yayy!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section.
 
-Text here!
+Yayyyyyyyyyy!!
+I'm really happy that I finished this project! I truly feel proud of myself. There were moments when this topic completely overwhelmed me—I hit roadblocks multiple times, struggling to figure out how to continue telling the story in a compelling way. I ended up scrapping and restructuring my ideas many times, refining my wording over and over to ensure that the final piece was both easy to read and crystal clear for the audience. 
+
+Through this course, I’ve learned so many tools that I never thought I would use, and I’m incredibly grateful for both the class and the professor! (Even though the workload was definitely heavy, and I complained about it a lot haha sorry! But if I had to choose again, I’d still enroll in the waitlist over fifty people on it!)
+
 
 
