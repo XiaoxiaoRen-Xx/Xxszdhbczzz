@@ -1,13 +1,12 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here.
+Pleas click the link below to see what I got!
+
 🔗 [Xiaoxiao's Final Project_Shorthand](https://carnegiemellon.shorthandstories.com/telling-stroy-with-data_final-project_xiaoxiaonren/index.html)
 
-Text here!
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
 Since completing Part II, I have made several key refinements, aiming to improve clarity, engagement, and overall effectiveness.  
 
@@ -17,10 +16,8 @@ Another major improvement was simplifying the explanation of scientific concepts
 
 Additionally, I refined the Call-to-Action (CTA) section. Rather than just providing a table for calculations, I now guide readers on how to use the table effectively and emphasize that it’s just a starting point. I also emphasized the message throughout the whole project is that starving yourself won't work!! Extreme dieting does not work and fueling the body properly is key to sustainable weight loss. I want my project to help the anxious people to fight with misinformation. 
 
----
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
 My primary audience consists of people interested in fat loss but misled by diet culture and social media trends. Many have been affected by toxic content from online and unrealistic examples, which caused them to attempt weight loss through extreme measures since they really want to see the changes, unaware of the scientific approach to sustainable fat loss. My goal is to correct these misconceptions and show them that they don’t have to starve themselves to achieve their goals, and help anxious people to fight against their struggles.  
 
@@ -30,7 +27,6 @@ To improve accessibility, I avoided technical jargon, and used engaging visuals 
 
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
 **Balancing data and storytelling for better engagement**
 Instead of just listing facts, I structured the content as a journey. It starts with common weight loss myths, explains why extreme dieting fails, and then provides abetter, science-backed solution. This approach makes the information more engaging and easier to follow. Making it feel more like a story rather than just a report.
@@ -46,9 +42,8 @@ Scientific explanations can be overwhelming, so I translated research into simpl
 **Creating a personal connection**  
 To make the project feel relatable, I included real-life experiences, personas and common struggles people face with dieting. This reassures readers that they’re not alone and helps build trust in the information.  
 
-**The Final Message**  
+**The Final Message I want to highlight!**  
 With these improvements, the project is now clearer, more engaging, and easier to follow and use. The main takeaway is simple: You don’t have to starve to lose weight—eating right is the key!
-
 
 
 ## References
