@@ -59,6 +59,7 @@ No, I didn't use AI for this part. I'm really happy for what I had come up and f
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section.
 
 Yayyyyyyyyyy!!
+
 I'm really happy that I finished this project! I truly feel proud of myself. There were moments when this topic completely overwhelmed me—I hit roadblocks multiple times, struggling to figure out how to continue telling the story in a compelling way. I ended up scrapping and restructuring my ideas many times, refining my wording over and over to ensure that the final piece was both easy to read and crystal clear for the audience. 
 
 Through this course, I’ve learned so many tools that I never thought I would use, and I’m incredibly grateful for both the class and the professor! (Even though the workload was definitely heavy, and I complained about it a lot haha sorry! But if I had to choose again, I’d still enroll in the waitlist over fifty people on it!)
