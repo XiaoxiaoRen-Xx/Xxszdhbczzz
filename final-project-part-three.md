@@ -29,19 +29,15 @@ To improve accessibility, I avoided technical jargon, and used engaging visuals 
 ## Final design decisions
 
 **Balancing data and storytelling for better engagement**
-
 Instead of just listing facts, I structured the content as a journey. It starts with common weight loss myths, explains why extreme dieting fails, and then provides abetter, science-backed solution. This approach makes the information more engaging and easier to follow. Making it feel more like a story rather than just a report.
 
 **Clear and impactful data visualization**
-
 To make key statistics stand out, I used simple, eye-catching visuals. For example, the 95% diet failure rate is shown with a donut chart, making it instantly clear how small the success area and the common the issue is.  
 
 **Turning information into action**
-
 Rather than just providing a table, I included step-by-step instructions and a calculation example. This makes it easy for readers to apply the information and find their recommended intake without confusion and time wasting. Additionally, I emphasized this is just for a basic guide, since this is aim to convey the thought on "stop starving yourself to loss weight". For better individual customization, I encouraged readers to adjust their intake based on their needs.
 
 **Simplifying science** 
-
 Scientific explanations can be overwhelming, so I translated research into simple takeaways. I also used everyday comparisons, like “100g of beef is about the weight of a smartphone” to help readers visualize portion sizes effortlessly.  
 
 **Creating a personal connection**  
