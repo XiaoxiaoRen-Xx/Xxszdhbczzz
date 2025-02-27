@@ -39,13 +39,13 @@ To improve accessibility, I avoided technical jargon, and used engaging visuals 
 - Rather than just providing a table, I included step-by-step instructions and a calculation example. This makes it easy for readers to apply the information and find their recommended intake without confusion and time wasting. Additionally, I emphasized this is just for a basic guide, since this is aim to convey the thought on "stop starving yourself to loss weight". For better individual customization, I encouraged readers to adjust their intake based on their needs.
 
 **Simplifying the interpretation** 
-Scientific explanations can be overwhelming, expecially for me haha, so I translated research into simple explainations and keytakeaways. I also used everyday comparisons, like “100g of beef is about the weight of a smartphone” to help readers visualize portion sizes effortlessly.  
+- Scientific explanations can be overwhelming, expecially for me haha, so I translated research into simple explainations and keytakeaways. I also used everyday comparisons, like “100g of beef is about the weight of a smartphone” to help readers visualize portion sizes effortlessly.  
 
 **Creating a personal connection**  
-To make the project feel relatable, I included real-life experiences, personas and common struggles people face with dieting. This reassures readers that they’re not alone and helps build trust in the information.  
+-To make the project feel relatable, I included real-life experiences, personas and common struggles people face with dieting. This reassures readers that they’re not alone and helps build dive in and also trust the information.  
 
 **The Final Message I want to highlight!**  
-With these improvements, the project is now clearer, more engaging, and easier to follow and use. The main takeaway is simple: You don’t have to starve to lose weight—eating right is the key!
+-With these improvements, the project is now clearer, more engaging, and easier to follow and use. The main takeaway is simple: You don’t have to starve to lose weight, eating right and happliy is the key!!!
 
 
 ## References
