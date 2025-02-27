@@ -29,7 +29,7 @@ To improve accessibility, I avoided technical jargon, and used engaging visuals 
 ## Final design decisions
 
 **Balancing data and storytelling for better engagement**
-Instead of just listing facts, I structured the content as a journey. It starts with common weight loss myths, explains why extreme dieting fails, and then provides abetter, science-backed solution. This approach makes the information more engaging and easier to follow. Making it feel more like a story rather than just a report.
+- Instead of just listing facts, I structured the content as a journey. It starts with common weight loss myths, explains why extreme dieting fails, and then provides abetter, science-backed solution. This approach makes the information more engaging and easier to follow. Making it feel more like a story rather than just a report.
 
 **Clear and impactful data visualization**
 To make key statistics stand out, I used simple, eye-catching visuals. For example, the 95% diet failure rate is shown with a donut chart, making it instantly clear how small the success area and the common the issue is.  
