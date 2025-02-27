@@ -29,13 +29,14 @@ To improve accessibility, I avoided technical jargon, and used engaging visuals 
 ## Final design decisions
 
 **Balancing data and storytelling for better engagement**
-- Instead of just listing facts, I structured the content as a journey. It starts with common weight loss myths, explains why extreme dieting fails, and then provides abetter, science-backed solution. This approach makes the information more engaging and easier to follow. Making it feel more like a story rather than just a report.
+- Instead of just listing facts, I structured the content as a journey or called story. It starts with common weight loss myths on the social media that a lot of  us may encounter, then I explains why extreme dieting fails, and then provides abetter, at last I provide a science-backed solution. This approach makes the information more engaging and easier to follow. Making it feel more like a story rather than just a report.
+- Here is one thing I want to cover is the chart I provide at last is based on a video posted by a verified fitness content creator in China. I first came across this video through my fitness instructor during my undergraduate fitness class.
 
 **Clear and impactful data visualization**
-To make key statistics stand out, I used simple, eye-catching visuals. For example, the 95% diet failure rate is shown with a donut chart, making it instantly clear how small the success area and the common the issue is.  
+- To make key statistics stand out, I used simple, eye-catching visuals. For example, the 95% diet failure rate is shown with a donut chart, making it instantly clear how small the success area and the common the issue is.  
 
 **Turning information into action**
-Rather than just providing a table, I included step-by-step instructions and a calculation example. This makes it easy for readers to apply the information and find their recommended intake without confusion and time wasting. Additionally, I emphasized this is just for a basic guide, since this is aim to convey the thought on "stop starving yourself to loss weight". For better individual customization, I encouraged readers to adjust their intake based on their needs.
+- Rather than just providing a table, I included step-by-step instructions and a calculation example. This makes it easy for readers to apply the information and find their recommended intake without confusion and time wasting. Additionally, I emphasized this is just for a basic guide, since this is aim to convey the thought on "stop starving yourself to loss weight". For better individual customization, I encouraged readers to adjust their intake based on their needs.
 
 **Simplifying the interpretation** 
 Scientific explanations can be overwhelming, expecially for me haha, so I translated research into simple explainations and keytakeaways. I also used everyday comparisons, like “100g of beef is about the weight of a smartphone” to help readers visualize portion sizes effortlessly.  
