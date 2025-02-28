@@ -50,8 +50,6 @@ Since I changed the direction of the introduction, these data visualizations can
 I have already contacted Datawrapper’s support team via email. 
 Fortunately, I still have access to the published URLs of my visualizations. Below are the links to my data visualizations—feel free to check them out!
 
-### 📊 Data Visualizations
-
 As part of my project, I created several data visualizations to illustrate key insights. You can view them through the links below:
 
 1. [Weight Loss Attempts and Spending](https://www.datawrapper.de/_/4R8gi/)
