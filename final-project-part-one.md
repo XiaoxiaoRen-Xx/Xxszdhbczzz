@@ -3,6 +3,7 @@
 
 # 📝 Outline of Final Project
 
+
 Version 1:
 
 In this project, I aim to explore how to achieve healthy, sustainable weight loss while exposing the risks of extreme dieting. Like many others, I once believed that drastic calorie restriction—surviving on coffee and cucumber—was the fastest way to lose weight. While the scale drops quickly, the consequences soon follow: fatigue, muscle loss, metabolic slowdown, and inevitable weight regain.  
