@@ -53,20 +53,17 @@ Fortunately, I still have access to the published URLs of my visualizations. Bel
 
 As part of my project, I created several data visualizations to illustrate key insights. You can view them through the links below:
 
-🔗 [Visual Capitalist - Top 10 Countries by Military Spending (2021)](https://www.visualcapitalist.com/ranked-top-10-countries-by-military-spending/)
-
 1. [Weight Loss Attempts and Spending](https://www.datawrapper.de/_/4R8gi/)
-2. **Popular Weight Loss Methods Globally** → [![View Chart](https://www.datawrapper.de/_/YXTYA/)](https://www.datawrapper.de/_/YXTYA/)
-3. **Biggest Barriers to Successful Weight Loss** → [![View Chart](https://www.datawrapper.de/_/ChN5H/)](https://www.datawrapper.de/_/ChN5H/)
-4. **Health Risks of Extreme Dieting** → [![View Chart](https://www.datawrapper.de/_/lUGJs/)](https://www.datawrapper.de/_/lUGJs/)
-5. **Why Most Diets Fail: The Reality of Weight Regain** → [![View Chart](https://www.datawrapper.de/_/AIMDq/)](https://www.datawrapper.de/_/AIMDq/)
-6. **Most Dieters Regain Weight – A Closer Look** → [![View Chart](https://www.datawrapper.de/_/ojG2H/)](https://www.datawrapper.de/_/ojG2H/)
-7. **How Often Do People Attempt Weight Loss?** → [![View Chart](https://www.datawrapper.de/_/DSbgC/)](https://www.datawrapper.de/_/DSbgC/)
-8. **Common Eating Habits That Change During Weight Loss** → [![View Chart](https://www.datawrapper.de/_/cGi6x/)](https://www.datawrapper.de/_/cGi6x/)
-9. **Hidden Truth About Weight Loss** → [![View Chart](https://www.datawrapper.de/_/Z1pon/)](https://www.datawrapper.de/_/Z1pon/)
+2. [Popular Weight Loss Methods Globally](https://www.datawrapper.de/_/YXTYA/))
+3. [Biggest Barriers to Successful Weight Loss](https://www.datawrapper.de/_/ChN5H/)
+4. [Health Risks of Extreme Dieting](https://www.datawrapper.de/_/lUGJs/)
+5. [Why Most Diets Fail: The Reality of Weight Regain](https://www.datawrapper.de/_/AIMDq/)
+6. [Most Dieters Regain Weight – A Closer Look](https://www.datawrapper.de/_/ojG2H/)
+7. [How Often Do People Attempt Weight Loss?](https://www.datawrapper.de/_/DSbgC/)
+8. [Common Eating Habits That Change During Weight Loss](https://www.datawrapper.de/_/cGi6x/)
+9. [Hidden Truth About Weight Loss](https://www.datawrapper.de/_/Z1pon/)
 
 Feel free to explore the data and insights behind weight loss trends and see them through shorthand! You can find my final shorthand link in the **Part III**!
-
 
 
 > ### Data visualizations for the conflict stage
@@ -114,6 +111,7 @@ As I process various sources and data, I continuously refine my data visualizati
 
 ## 📂 References
 I listed it in the data source list.
+The revised version can be found in the shorthand link.
 
 
 
