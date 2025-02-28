@@ -3,10 +3,15 @@
 
 # 📝 Outline of Final Project
 
+Version 1:
+
 In this project, I aim to explore how to achieve healthy, sustainable weight loss while exposing the risks of extreme dieting. Like many others, I once believed that drastic calorie restriction—surviving on coffee and cucumber—was the fastest way to lose weight. While the scale drops quickly, the consequences soon follow: fatigue, muscle loss, metabolic slowdown, and inevitable weight regain.  
 
 This issue extends beyond individual struggles; with obesity rates rising globally, many turn to extreme diets that promise fast results but rarely deliver lasting success. Instead of chasing unsustainable quick fixes, this project will break down the science behind effective weight loss. Using data-driven analysis and visual storytelling, I’ll compare different diet methods, highlighting their impact on health in both the short and long term. More importantly, I’ll provide practical insights to help individuals create personalized, sustainable weight-loss strategies that promote overall well-being, not just a lower number on the scale.
 
+**Version 2: Final choice**
+
+This is my second version of the explanation. Later, I realized that starting with the widespread misinformation on social media aligns better with my vision. From there, I gradually introduce how people, influenced by misleading information, have made many ineffective weight loss efforts. I want to help them, also just like I once needed help. By showing that they don’t need to starve themselves or resort to unhealthy methods to lose weight. In many cases, these extreme approaches backfire. This realization was the starting point of my project.
 
 ## 🔍 Setup: Where My Thought Came From?
 
@@ -38,6 +43,28 @@ In my project, I will compare the long-term effects of different diet strategies
 
 2022 Obesity Rate Worldwide
 ![2022 Obesity Rate Worldwide](https://raw.githubusercontent.com/XiaoxiaoRen-Xx/Images-/main/69f10530-e340-11ef-8266-5b3800b24186.png)
+
+❗️**Correction after this**❗️
+Since I changed the direction of the introduction, these data visualizations can no longer be used. However, when I logged into my Datawrapper account, I'm so sorry that couldn't find my edit history and found that all my data visualization records were missing. 
+I have already contacted Datawrapper’s support team via email. 
+Fortunately, I still have access to the published URLs of my visualizations. Below are the links to my data visualizations—feel free to check them out!
+
+### 📊 Data Visualizations
+
+As part of my project, I created several data visualizations to illustrate key insights. You can view them through the links below:
+
+1. **Weight Loss Attempts and Spending** → [![View Chart](https://www.datawrapper.de/_/4R8gi/)](https://www.datawrapper.de/_/4R8gi/)
+2. **Popular Weight Loss Methods Globally** → [![View Chart](https://www.datawrapper.de/_/YXTYA/)](https://www.datawrapper.de/_/YXTYA/)
+3. **Biggest Barriers to Successful Weight Loss** → [![View Chart](https://www.datawrapper.de/_/ChN5H/)](https://www.datawrapper.de/_/ChN5H/)
+4. **Health Risks of Extreme Dieting** → [![View Chart](https://www.datawrapper.de/_/lUGJs/)](https://www.datawrapper.de/_/lUGJs/)
+5. **Why Most Diets Fail: The Reality of Weight Regain** → [![View Chart](https://www.datawrapper.de/_/AIMDq/)](https://www.datawrapper.de/_/AIMDq/)
+6. **Most Dieters Regain Weight – A Closer Look** → [![View Chart](https://www.datawrapper.de/_/ojG2H/)](https://www.datawrapper.de/_/ojG2H/)
+7. **How Often Do People Attempt Weight Loss?** → [![View Chart](https://www.datawrapper.de/_/DSbgC/)](https://www.datawrapper.de/_/DSbgC/)
+8. **Common Eating Habits That Change During Weight Loss** → [![View Chart](https://www.datawrapper.de/_/cGi6x/)](https://www.datawrapper.de/_/cGi6x/)
+9. **Hidden Truth About Weight Loss** → [![View Chart](https://www.datawrapper.de/_/Z1pon/)](https://www.datawrapper.de/_/Z1pon/)
+
+Feel free to explore the data and insights behind weight loss trends and see them through shorthand! You can find my final shorthand link in the **Part III**!
+
 
 
 > ### Data visualizations for the conflict stage
