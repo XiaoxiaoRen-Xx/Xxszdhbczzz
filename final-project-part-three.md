@@ -61,8 +61,8 @@ As part of my project, I created several data visualizations to illustrate key i
 5. [Why Most Diets Fail: The Reality of Weight Regain](https://www.datawrapper.de/_/AIMDq/)
 6. [Most Dieters Regain Weight – A Closer Look](https://www.datawrapper.de/_/ojG2H/)
 7. [How Often Do People Attempt Weight Loss?](https://www.datawrapper.de/_/DSbgC/)
-8. [Common Eating Habits That Change During Weight Loss](https://www.datawrapper.de/_/cGi6x/)
-9. [Hidden Truth About Weight Loss](https://www.datawrapper.de/_/Z1pon/)
+8. [Daily Carb & Protein Intake Guide for Daily Rest Days (Women)](https://www.datawrapper.de/_/cGi6x/)
+9. [Daily Carb & Protein Intake Guide for Daily Rest Days (Men)](https://www.datawrapper.de/_/Z1pon/)
 
 
 
