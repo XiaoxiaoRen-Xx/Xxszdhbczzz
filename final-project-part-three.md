@@ -54,13 +54,13 @@ Fortunately, I still have access to the published URLs of my visualizations. Bel
 
 As part of my project, I created several data visualizations to illustrate key insights. You can view them through the links below:
 
-1. [Weight Loss Attempts and Spending](https://www.datawrapper.de/_/4R8gi/)
-2. [Popular Weight Loss Methods Globally](https://www.datawrapper.de/_/YXTYA/))
-3. [Biggest Barriers to Successful Weight Loss](https://www.datawrapper.de/_/ChN5H/)
-4. [Health Risks of Extreme Dieting](https://www.datawrapper.de/_/lUGJs/)
-5. [Why Most Diets Fail: The Reality of Weight Regain](https://www.datawrapper.de/_/AIMDq/)
-6. [Most Dieters Regain Weight – A Closer Look](https://www.datawrapper.de/_/ojG2H/)
-7. [How Often Do People Attempt Weight Loss?](https://www.datawrapper.de/_/DSbgC/)
+1. [Popular Weight Loss Methods Globally](https://www.datawrapper.de/_/4R8gi/)
+2. [Why Most Diets Fail: The Reality of Weight Regain](https://www.datawrapper.de/_/YXTYA/))
+3. [Most Dieters Regain Weight—A Closer Look](https://www.datawrapper.de/_/ChN5H/)
+4. [How Many Times Do People Attempt Weight Loss?](https://www.datawrapper.de/_/lUGJs/)
+5. [How Eating Habits Change on Weekends & Holidays?](https://www.datawrapper.de/_/AIMDq/)
+6. [The Most Popular Weight Loss Methods](https://www.datawrapper.de/_/ojG2H/)
+7. [Health Risks of Extreme Dieting](https://www.datawrapper.de/_/DSbgC/)
 8. [Daily Carb & Protein Intake Guide for Daily Rest Days (Women)](https://www.datawrapper.de/_/cGi6x/)
 9. [Daily Carb & Protein Intake Guide for Daily Rest Days (Men)](https://www.datawrapper.de/_/Z1pon/)
 
